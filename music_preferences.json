@@ -1,0 +1,140 @@
+{
+    "music_preferences": [
+        {
+            "genre": "Pop",
+            "logo": "https://www.flaticon.com/free-icon/pop-music_1234567"
+        },
+        {
+            "genre": "Rock",
+            "logo": "https://www.flaticon.com/free-icon/rock-music_2345678"
+        },
+        {
+            "genre": "Hip-Hop",
+            "logo": "https://www.flaticon.com/free-icon/hip-hop_3456789"
+        },
+        {
+            "genre": "Rap",
+            "logo": "https://www.flaticon.com/free-icon/rap_4567890"
+        },
+        {
+            "genre": "Trap",
+            "logo": "https://www.flaticon.com/free-icon/trap-music_5678901"
+        },
+        {
+            "genre": "Drill",
+            "logo": "https://www.flaticon.com/free-icon/drill-music_6789012"
+        },
+        {
+            "genre": "Grime",
+            "logo": "https://www.flaticon.com/free-icon/grime_7890123"
+        },
+        {
+            "genre": "R&B / Soul",
+            "logo": "https://www.flaticon.com/free-icon/rnb_8901234"
+        },
+        {
+            "genre": "Classical",
+            "logo": "https://www.flaticon.com/free-icon/classical-music_9012345"
+        },
+        {
+            "genre": "Opera",
+            "logo": "https://www.flaticon.com/free-icon/opera_0123456"
+        },
+        {
+            "genre": "Jazz",
+            "logo": "https://www.flaticon.com/free-icon/jazz_1234568"
+        },
+        {
+            "genre": "Blues",
+            "logo": "https://www.flaticon.com/free-icon/blues_2345679"
+        },
+        {
+            "genre": "Electronic / EDM",
+            "logo": "https://www.flaticon.com/free-icon/edm_3456780"
+        },
+        {
+            "genre": "House",
+            "logo": "https://www.flaticon.com/free-icon/house-music_4567891"
+        },
+        {
+            "genre": "Techno",
+            "logo": "https://www.flaticon.com/free-icon/techno_5678902"
+        },
+        {
+            "genre": "Trance",
+            "logo": "https://www.flaticon.com/free-icon/trance_6789013"
+        },
+        {
+            "genre": "Synthwave / Retrowave",
+            "logo": "https://www.flaticon.com/free-icon/synthwave_7890124"
+        },
+        {
+            "genre": "Chill / Ambient",
+            "logo": "https://www.flaticon.com/free-icon/chill_8901235"
+        },
+        {
+            "genre": "Instrumental / Lo-fi",
+            "logo": "https://www.flaticon.com/free-icon/lofi_9012346"
+        },
+        {
+            "genre": "Indie / Alternative",
+            "logo": "https://www.flaticon.com/free-icon/indie_0123457"
+        },
+        {
+            "genre": "Folk / Acoustic",
+            "logo": "https://www.flaticon.com/free-icon/folk_1234569"
+        },
+        {
+            "genre": "Country",
+            "logo": "https://www.flaticon.com/free-icon/country-music_2345670"
+        },
+        {
+            "genre": "Reggae",
+            "logo": "https://www.flaticon.com/free-icon/reggae_3456781"
+        },
+        {
+            "genre": "Dancehall",
+            "logo": "https://www.flaticon.com/free-icon/dancehall_4567892"
+        },
+        {
+            "genre": "Afrobeats",
+            "logo": "https://www.flaticon.com/free-icon/afrobeats_5678903"
+        },
+        {
+            "genre": "Latin / Reggaeton",
+            "logo": "https://www.flaticon.com/free-icon/latin-music_6789014"
+        },
+        {
+            "genre": "K-Pop",
+            "logo": "https://www.flaticon.com/free-icon/kpop_7890125"
+        },
+        {
+            "genre": "Arabic Music",
+            "logo": "https://www.flaticon.com/free-icon/arabic-music_8901236"
+        },
+        {
+            "genre": "Turkish Pop",
+            "logo": "https://www.flaticon.com/free-icon/turkish-music_9012347"
+        },
+        {
+            "genre": "Indian / Bollywood",
+            "logo": "https://www.flaticon.com/free-icon/bollywood_0123458"
+        },
+        {
+            "genre": "Soundtracks / Movie Scores",
+            "logo": "https://www.flaticon.com/free-icon/soundtrack_1234570"
+        },
+        {
+            "genre": "Religious / Spiritual",
+            "logo": "https://www.flaticon.com/free-icon/religious-music_2345671"
+        },
+        {
+            "genre": "Nashid / Islamic Spirituals",
+            "logo": "https://www.flaticon.com/free-icon/nashid_3456782"
+        },
+        {
+            "genre": "Anasheed",
+            "logo": "https://www.flaticon.com/free-icon/anasheed_4567893"
+        }
+    ]
+}

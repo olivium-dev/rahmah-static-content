@@ -1,0 +1,124 @@
+{
+    "lifestyle_preferences": [
+        {
+            "genre": "Healthy Living",
+            "logo": "https://www.flaticon.com/free-icon/healthy_123456"
+        },
+        {
+            "genre": "Fitness & Gym",
+            "logo": "https://www.flaticon.com/free-icon/gym_234567"
+        },
+        {
+            "genre": "Yoga & Meditation",
+            "logo": "https://www.flaticon.com/free-icon/yoga_345678"
+        },
+        {
+            "genre": "Vegan / Vegetarian",
+            "logo": "https://www.flaticon.com/free-icon/vegan_456789"
+        },
+        {
+            "genre": "Tech Enthusiast",
+            "logo": "https://www.flaticon.com/free-icon/technology_567890"
+        },
+        {
+            "genre": "Minimalism",
+            "logo": "https://www.flaticon.com/free-icon/minimalism_678901"
+        },
+        {
+            "genre": "Spiritual / Religious",
+            "logo": "https://www.flaticon.com/free-icon/spirituality_789012"
+        },
+        {
+            "genre": "Outdoor & Nature Lover",
+            "logo": "https://www.flaticon.com/free-icon/nature_890123"
+        },
+        {
+            "genre": "Pet Lover",
+            "logo": "https://www.flaticon.com/free-icon/pet_901234"
+        },
+        {
+            "genre": "Fashion & Style",
+            "logo": "https://www.flaticon.com/free-icon/fashion_012345"
+        },
+        {
+            "genre": "Luxury Living",
+            "logo": "https://www.flaticon.com/free-icon/luxury_123457"
+        },
+        {
+            "genre": "Budget Living",
+            "logo": "https://www.flaticon.com/free-icon/budget_234568"
+        },
+        {
+            "genre": "Travel Addict",
+            "logo": "https://www.flaticon.com/free-icon/travel_345679"
+        },
+        {
+            "genre": "Digital Nomad",
+            "logo": "https://www.flaticon.com/free-icon/digital-nomad_456780"
+        },
+        {
+            "genre": "Entrepreneurial",
+            "logo": "https://www.flaticon.com/free-icon/entrepreneur_567891"
+        },
+        {
+            "genre": "Bookworm",
+            "logo": "https://www.flaticon.com/free-icon/book_678902"
+        },
+        {
+            "genre": "Coffee Lover",
+            "logo": "https://www.flaticon.com/free-icon/coffee_789013"
+        },
+        {
+            "genre": "Night Owl",
+            "logo": "https://www.flaticon.com/free-icon/night_890124"
+        },
+        {
+            "genre": "Early Riser",
+            "logo": "https://www.flaticon.com/free-icon/sunrise_901235"
+        },
+        {
+            "genre": "Social Butterfly",
+            "logo": "https://www.flaticon.com/free-icon/social_012346"
+        },
+        {
+            "genre": "Homebody",
+            "logo": "https://www.flaticon.com/free-icon/home_123458"
+        },
+        {
+            "genre": "Creative / Artistic",
+            "logo": "https://www.flaticon.com/free-icon/creative_234569"
+        },
+        {
+            "genre": "Adventurous",
+            "logo": "https://www.flaticon.com/free-icon/adventure_345670"
+        },
+        {
+            "genre": "Mindfulness / Self-Care",
+            "logo": "https://www.flaticon.com/free-icon/mindfulness_456781"
+        },
+        {
+            "genre": "Eco-Friendly",
+            "logo": "https://www.flaticon.com/free-icon/eco-friendly_567892"
+        },
+        {
+            "genre": "Gamer",
+            "logo": "https://www.flaticon.com/free-icon/gaming_678903"
+        },
+        {
+            "genre": "Foodie",
+            "logo": "https://www.flaticon.com/free-icon/food_789014"
+        },
+        {
+            "genre": "Workaholic",
+            "logo": "https://www.flaticon.com/free-icon/work_890125"
+        },
+        {
+            "genre": "Parenting Focused",
+            "logo": "https://www.flaticon.com/free-icon/parenting_901236"
+        },
+        {
+            "genre": "Volunteer / Community Service",
+            "logo": "https://www.flaticon.com/free-icon/volunteer_012347"
+        }
+    ]
+}

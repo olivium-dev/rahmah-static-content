@@ -1,0 +1,172 @@
+{
+    "book_preferences": [
+        {
+            "genre": "Fiction",
+            "logo": "https://www.flaticon.com/free-icon/fiction_123456"
+        },
+        {
+            "genre": "Non-Fiction",
+            "logo": "https://www.flaticon.com/free-icon/non-fiction_234567"
+        },
+        {
+            "genre": "Fantasy",
+            "logo": "https://www.flaticon.com/free-icon/fantasy_345678"
+        },
+        {
+            "genre": "Science Fiction",
+            "logo": "https://www.flaticon.com/free-icon/science-fiction_456789"
+        },
+        {
+            "genre": "Mystery",
+            "logo": "https://www.flaticon.com/free-icon/mystery_567890"
+        },
+        {
+            "genre": "Thriller",
+            "logo": "https://www.flaticon.com/free-icon/thriller_678901"
+        },
+        {
+            "genre": "Romance",
+            "logo": "https://www.flaticon.com/free-icon/romance_789012"
+        },
+        {
+            "genre": "Historical Fiction",
+            "logo": "https://www.flaticon.com/free-icon/historical-fiction_890123"
+        },
+        {
+            "genre": "Horror",
+            "logo": "https://www.flaticon.com/free-icon/horror_901234"
+        },
+        {
+            "genre": "Biography",
+            "logo": "https://www.flaticon.com/free-icon/biography_012345"
+        },
+        {
+            "genre": "Autobiography",
+            "logo": "https://www.flaticon.com/free-icon/autobiography_123457"
+        },
+        {
+            "genre": "Self-Help",
+            "logo": "https://www.flaticon.com/free-icon/self-help_234568"
+        },
+        {
+            "genre": "Psychology",
+            "logo": "https://www.flaticon.com/free-icon/psychology_345679"
+        },
+        {
+            "genre": "Philosophy",
+            "logo": "https://www.flaticon.com/free-icon/philosophy_456780"
+        },
+        {
+            "genre": "Religion / Spirituality",
+            "logo": "https://www.flaticon.com/free-icon/religion_567891"
+        },
+        {
+            "genre": "Science / Nature",
+            "logo": "https://www.flaticon.com/free-icon/science_678902"
+        },
+        {
+            "genre": "Health / Wellness",
+            "logo": "https://www.flaticon.com/free-icon/health_789013"
+        },
+        {
+            "genre": "Business / Economics",
+            "logo": "https://www.flaticon.com/free-icon/business_890124"
+        },
+        {
+            "genre": "Politics",
+            "logo": "https://www.flaticon.com/free-icon/politics_901235"
+        },
+        {
+            "genre": "True Crime",
+            "logo": "https://www.flaticon.com/free-icon/true-crime_012346"
+        },
+        {
+            "genre": "Poetry",
+            "logo": "https://www.flaticon.com/free-icon/poetry_123458"
+        },
+        {
+            "genre": "Young Adult (YA)",
+            "logo": "https://www.flaticon.com/free-icon/young-adult_234569"
+        },
+        {
+            "genre": "Children's Books",
+            "logo": "https://www.flaticon.com/free-icon/children-books_345670"
+        },
+        {
+            "genre": "Comics / Graphic Novels",
+            "logo": "https://www.flaticon.com/free-icon/comics_456781"
+        },
+        {
+            "genre": "Travel",
+            "logo": "https://www.flaticon.com/free-icon/travel_567892"
+        },
+        {
+            "genre": "Cookbooks / Food",
+            "logo": "https://www.flaticon.com/free-icon/cookbook_678903"
+        },
+        {
+            "genre": "Art / Photography",
+            "logo": "https://www.flaticon.com/free-icon/art_789014"
+        },
+        {
+            "genre": "Education / Academic",
+            "logo": "https://www.flaticon.com/free-icon/education_890125"
+        },
+        {
+            "genre": "Memoir",
+            "logo": "https://www.flaticon.com/free-icon/memoir_901236"
+        },
+        {
+            "genre": "Classic Literature",
+            "logo": "https://www.flaticon.com/free-icon/classic-literature_123459"
+        },
+        {
+            "genre": "Adventure",
+            "logo": "https://www.flaticon.com/free-icon/adventure_234570"
+        },
+        {
+            "genre": "Dystopian",
+            "logo": "https://www.flaticon.com/free-icon/dystopian_345681"
+        },
+        {
+            "genre": "Short Stories",
+            "logo": "https://www.flaticon.com/free-icon/short-stories_456792"
+        },
+        {
+            "genre": "Anthologies",
+            "logo": "https://www.flaticon.com/free-icon/anthology_567803"
+        },
+        {
+            "genre": "Christian Literature",
+            "logo": "https://www.flaticon.com/free-icon/christian-literature_678914"
+        },
+        {
+            "genre": "Islamic Literature",
+            "logo": "https://www.flaticon.com/free-icon/islamic-literature_789025"
+        },
+        {
+            "genre": "Historical / War",
+            "logo": "https://www.flaticon.com/free-icon/historical-war_890136"
+        },
+        {
+            "genre": "Legal / Courtroom Drama",
+            "logo": "https://www.flaticon.com/free-icon/legal-drama_901247"
+        },
+        {
+            "genre": "Sports",
+            "logo": "https://www.flaticon.com/free-icon/sports_012358"
+        },
+        {
+            "genre": "Technology / Programming",
+            "logo": "https://www.flaticon.com/free-icon/technology_123460"
+        },
+        {
+            "genre": "Esoteric / Occult",
+            "logo": "https://www.flaticon.com/free-icon/occult_234571"
+        },
+        {
+            "genre": "Journalism / Investigative",
+            "logo": "https://www.flaticon.com/free-icon/journalism_345682"
+        }
+    ]
+}

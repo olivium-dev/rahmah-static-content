@@ -1,0 +1,124 @@
+{
+    "movies_preferences": [
+        {
+            "genre": "Action",
+            "logo": "https://www.flaticon.com/free-icon/action_123456"
+        },
+        {
+            "genre": "Adventure",
+            "logo": "https://www.flaticon.com/free-icon/adventure_234567"
+        },
+        {
+            "genre": "Comedy",
+            "logo": "https://www.flaticon.com/free-icon/comedy_345678"
+        },
+        {
+            "genre": "Drama",
+            "logo": "https://www.flaticon.com/free-icon/drama_456789"
+        },
+        {
+            "genre": "Romance",
+            "logo": "https://www.flaticon.com/free-icon/romance_567890"
+        },
+        {
+            "genre": "Horror",
+            "logo": "https://www.flaticon.com/free-icon/horror_678901"
+        },
+        {
+            "genre": "Thriller",
+            "logo": "https://www.flaticon.com/free-icon/thriller_789012"
+        },
+        {
+            "genre": "Science Fiction",
+            "logo": "https://www.flaticon.com/free-icon/science-fiction_890123"
+        },
+        {
+            "genre": "Fantasy",
+            "logo": "https://www.flaticon.com/free-icon/fantasy_901234"
+        },
+        {
+            "genre": "Mystery",
+            "logo": "https://www.flaticon.com/free-icon/mystery_012345"
+        },
+        {
+            "genre": "Crime",
+            "logo": "https://www.flaticon.com/free-icon/crime_123457"
+        },
+        {
+            "genre": "Biography",
+            "logo": "https://www.flaticon.com/free-icon/biography_234568"
+        },
+        {
+            "genre": "History",
+            "logo": "https://www.flaticon.com/free-icon/history_345679"
+        },
+        {
+            "genre": "War",
+            "logo": "https://www.flaticon.com/free-icon/war_456780"
+        },
+        {
+            "genre": "Western",
+            "logo": "https://www.flaticon.com/free-icon/western_567891"
+        },
+        {
+            "genre": "Animation",
+            "logo": "https://www.flaticon.com/free-icon/animation_678902"
+        },
+        {
+            "genre": "Family",
+            "logo": "https://www.flaticon.com/free-icon/family_789013"
+        },
+        {
+            "genre": "Musical",
+            "logo": "https://www.flaticon.com/free-icon/musical_890124"
+        },
+        {
+            "genre": "Documentary",
+            "logo": "https://www.flaticon.com/free-icon/documentary_901235"
+        },
+        {
+            "genre": "Sport",
+            "logo": "https://www.flaticon.com/free-icon/sport_012346"
+        },
+        {
+            "genre": "Superhero",
+            "logo": "https://www.flaticon.com/free-icon/superhero_123458"
+        },
+        {
+            "genre": "Psychological",
+            "logo": "https://www.flaticon.com/free-icon/psychological_234569"
+        },
+        {
+            "genre": "Noir",
+            "logo": "https://www.flaticon.com/free-icon/noir_345670"
+        },
+        {
+            "genre": "Short Film",
+            "logo": "https://www.flaticon.com/free-icon/short-film_456781"
+        },
+        {
+            "genre": "International / Foreign",
+            "logo": "https://www.flaticon.com/free-icon/international_567892"
+        },
+        {
+            "genre": "Silent Film",
+            "logo": "https://www.flaticon.com/free-icon/silent-film_678903"
+        },
+        {
+            "genre": "Teen",
+            "logo": "https://www.flaticon.com/free-icon/teen_789014"
+        },
+        {
+            "genre": "Disaster",
+            "logo": "https://www.flaticon.com/free-icon/disaster_890125"
+        },
+        {
+            "genre": "Cult Classic",
+            "logo": "https://www.flaticon.com/free-icon/cult-classic_901236"
+        },
+        {
+            "genre": "Religious / Faith-Based",
+            "logo": "https://www.flaticon.com/free-icon/religious_012347"
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "travel_preferences": [
+        {
+            "genre": "Adventure Travel",
+            "logo": "https://www.flaticon.com/free-icon/mountain_123456"
+        },
+        {
+            "genre": "Beach & Relaxation",
+            "logo": "https://www.flaticon.com/free-icon/beach_234567"
+        },
+        {
+            "genre": "Cultural / Heritage Travel",
+            "logo": "https://www.flaticon.com/free-icon/museum_345678"
+        },
+        {
+            "genre": "Nature & Wildlife",
+            "logo": "https://www.flaticon.com/free-icon/wildlife_456789"
+        },
+        {
+            "genre": "City Tours / Urban Travel",
+            "logo": "https://www.flaticon.com/free-icon/city_567890"
+        },
+        {
+            "genre": "Road Trips",
+            "logo": "https://www.flaticon.com/free-icon/road-trip_678901"
+        },
+        {
+            "genre": "Luxury Travel",
+            "logo": "https://www.flaticon.com/free-icon/luxury_789012"
+        },
+        {
+            "genre": "Backpacking / Budget Travel",
+            "logo": "https://www.flaticon.com/free-icon/backpack_890123"
+        },
+        {
+            "genre": "Camping",
+            "logo": "https://www.flaticon.com/free-icon/camping_901234"
+        },
+        {
+            "genre": "Cruises",
+            "logo": "https://www.flaticon.com/free-icon/cruise_012345"
+        },
+        {
+            "genre": "Island Hopping",
+            "logo": "https://www.flaticon.com/free-icon/island_123457"
+        },
+        {
+            "genre": "Food Tourism / Culinary Travel",
+            "logo": "https://www.flaticon.com/free-icon/restaurant_234568"
+        },
+        {
+            "genre": "Religious / Spiritual Travel",
+            "logo": "https://www.flaticon.com/free-icon/temple_345679"
+        },
+        {
+            "genre": "Desert Travel",
+            "logo": "https://www.flaticon.com/free-icon/desert_456780"
+        },
+        {
+            "genre": "Polar / Arctic Travel",
+            "logo": "https://www.flaticon.com/free-icon/iceberg_567891"
+        },
+        {
+            "genre": "Safari / African Travel",
+            "logo": "https://www.flaticon.com/free-icon/safari_678902"
+        },
+        {
+            "genre": "Festival / Event Tourism",
+            "logo": "https://www.flaticon.com/free-icon/festival_789013"
+        },
+        {
+            "genre": "Solo Travel",
+            "logo": "https://www.flaticon.com/free-icon/solo_890124"
+        },
+        {
+            "genre": "Group Tours",
+            "logo": "https://www.flaticon.com/free-icon/group_901235"
+        },
+        {
+            "genre": "Eco-Tourism",
+            "logo": "https://www.flaticon.com/free-icon/eco_012346"
+        },
+        {
+            "genre": "Wellness Retreats",
+            "logo": "https://www.flaticon.com/free-icon/spa_123458"
+        },
+        {
+            "genre": "Photography Travel",
+            "logo": "https://www.flaticon.com/free-icon/camera_234569"
+        },
+        {
+            "genre": "Digital Nomad Destinations",
+            "logo": "https://www.flaticon.com/free-icon/laptop_345670"
+        },
+        {
+            "genre": "Winter Sports Travel",
+            "logo": "https://www.flaticon.com/free-icon/skiing_456781"
+        }
+    ]
+}
