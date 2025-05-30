@@ -1,124 +1,124 @@
 {
     "lifestyle_preferences": [
         {
-            "genre": "Healthy Living",
-            "logo": "https://www.flaticon.com/free-icon/healthy_123456"
+            "id": 0,
+            "genre": "Healthy Living"
         },
         {
-            "genre": "Fitness & Gym",
-            "logo": "https://www.flaticon.com/free-icon/gym_234567"
+            "id": 1,
+            "genre": "Fitness & Gym"
         },
         {
-            "genre": "Yoga & Meditation",
-            "logo": "https://www.flaticon.com/free-icon/yoga_345678"
+            "id": 2,
+            "genre": "Yoga & Meditation"
         },
         {
-            "genre": "Vegan / Vegetarian",
-            "logo": "https://www.flaticon.com/free-icon/vegan_456789"
+            "id": 3,
+            "genre": "Vegan / Vegetarian"
         },
         {
-            "genre": "Tech Enthusiast",
-            "logo": "https://www.flaticon.com/free-icon/technology_567890"
+            "id": 4,
+            "genre": "Tech Enthusiast"
         },
         {
-            "genre": "Minimalism",
-            "logo": "https://www.flaticon.com/free-icon/minimalism_678901"
+            "id": 5,
+            "genre": "Minimalism"
         },
         {
-            "genre": "Spiritual / Religious",
-            "logo": "https://www.flaticon.com/free-icon/spirituality_789012"
+            "id": 6,
+            "genre": "Spiritual / Religious"
         },
         {
-            "genre": "Outdoor & Nature Lover",
-            "logo": "https://www.flaticon.com/free-icon/nature_890123"
+            "id": 7,
+            "genre": "Outdoor & Nature Lover"
         },
         {
-            "genre": "Pet Lover",
-            "logo": "https://www.flaticon.com/free-icon/pet_901234"
+            "id": 8,
+            "genre": "Pet Lover"
         },
         {
-            "genre": "Fashion & Style",
-            "logo": "https://www.flaticon.com/free-icon/fashion_012345"
+            "id": 9,
+            "genre": "Fashion & Style"
         },
         {
-            "genre": "Luxury Living",
-            "logo": "https://www.flaticon.com/free-icon/luxury_123457"
+            "id": 10,
+            "genre": "Luxury Living"
         },
         {
-            "genre": "Budget Living",
-            "logo": "https://www.flaticon.com/free-icon/budget_234568"
+            "id": 11,
+            "genre": "Budget Living"
         },
         {
-            "genre": "Travel Addict",
-            "logo": "https://www.flaticon.com/free-icon/travel_345679"
+            "id": 12,
+            "genre": "Travel Addict"
         },
         {
-            "genre": "Digital Nomad",
-            "logo": "https://www.flaticon.com/free-icon/digital-nomad_456780"
+            "id": 13,
+            "genre": "Digital Nomad"
         },
         {
-            "genre": "Entrepreneurial",
-            "logo": "https://www.flaticon.com/free-icon/entrepreneur_567891"
+            "id": 14,
+            "genre": "Entrepreneurial"
         },
         {
-            "genre": "Bookworm",
-            "logo": "https://www.flaticon.com/free-icon/book_678902"
+            "id": 15,
+            "genre": "Bookworm"
         },
         {
-            "genre": "Coffee Lover",
-            "logo": "https://www.flaticon.com/free-icon/coffee_789013"
+            "id": 16,
+            "genre": "Coffee Lover"
         },
         {
-            "genre": "Night Owl",
-            "logo": "https://www.flaticon.com/free-icon/night_890124"
+            "id": 17,
+            "genre": "Night Owl"
         },
         {
-            "genre": "Early Riser",
-            "logo": "https://www.flaticon.com/free-icon/sunrise_901235"
+            "id": 18,
+            "genre": "Early Riser"
         },
         {
-            "genre": "Social Butterfly",
-            "logo": "https://www.flaticon.com/free-icon/social_012346"
+            "id": 19,
+            "genre": "Social Butterfly"
         },
         {
-            "genre": "Homebody",
-            "logo": "https://www.flaticon.com/free-icon/home_123458"
+            "id": 20,
+            "genre": "Homebody"
         },
         {
-            "genre": "Creative / Artistic",
-            "logo": "https://www.flaticon.com/free-icon/creative_234569"
+            "id": 21,
+            "genre": "Creative / Artistic"
         },
         {
-            "genre": "Adventurous",
-            "logo": "https://www.flaticon.com/free-icon/adventure_345670"
+            "id": 22,
+            "genre": "Adventurous"
         },
         {
-            "genre": "Mindfulness / Self-Care",
-            "logo": "https://www.flaticon.com/free-icon/mindfulness_456781"
+            "id": 23,
+            "genre": "Mindfulness / Self-Care"
         },
         {
-            "genre": "Eco-Friendly",
-            "logo": "https://www.flaticon.com/free-icon/eco-friendly_567892"
+            "id": 24,
+            "genre": "Eco-Friendly"
         },
         {
-            "genre": "Gamer",
-            "logo": "https://www.flaticon.com/free-icon/gaming_678903"
+            "id": 25,
+            "genre": "Gamer"
         },
         {
-            "genre": "Foodie",
-            "logo": "https://www.flaticon.com/free-icon/food_789014"
+            "id": 26,
+            "genre": "Foodie"
         },
         {
-            "genre": "Workaholic",
-            "logo": "https://www.flaticon.com/free-icon/work_890125"
+            "id": 27,
+            "genre": "Workaholic"
         },
         {
-            "genre": "Parenting Focused",
-            "logo": "https://www.flaticon.com/free-icon/parenting_901236"
+            "id": 28,
+            "genre": "Parenting Focused"
         },
         {
-            "genre": "Volunteer / Community Service",
-            "logo": "https://www.flaticon.com/free-icon/volunteer_012347"
+            "id": 29,
+            "genre": "Volunteer / Community Service"
         }
     ]
 }

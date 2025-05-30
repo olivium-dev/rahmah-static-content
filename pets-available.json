@@ -1,0 +1,44 @@
+{
+    "pets_available": [
+        {
+            "id": 0,
+            "pet": "None"
+        },
+        {
+            "id": 1,
+            "pet": "Dog"
+        },
+        {
+            "id": 2,
+            "pet": "Cat"
+        },
+        {
+            "id": 3,
+            "pet": "Fish"
+        },
+        {
+            "id": 4,
+            "pet": "Bird"
+        },
+        {
+            "id": 5,
+            "pet": "Rabbit"
+        },
+        {
+            "id": 6,
+            "pet": "Hamster"
+        },
+        {
+            "id": 7,
+            "pet": "Reptile"
+        },
+        {
+            "id": 8,
+            "pet": "Exotic Pet"
+        },
+        {
+            "id": 9,
+            "pet": "Other"
+        }
+    ]
+}

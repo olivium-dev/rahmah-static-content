@@ -1,0 +1,24 @@
+{
+    "dress_type": [
+        {
+            "id": 0,
+            "dress_type": "Hijab"
+        },
+        {
+            "id": 1,
+            "dress_type": "Jilbab"
+        },
+        {
+            "id": 2,
+            "dress_type": "Niqab"
+        },
+        {
+            "id": 3,
+            "dress_type": "Modest"
+        },
+        {
+            "id": 4,
+            "dress_type": "No religious dress"
+        }
+    ]
+}

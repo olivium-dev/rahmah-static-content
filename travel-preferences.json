@@ -1,100 +1,124 @@
 {
     "travel_preferences": [
         {
-            "genre": "Adventure Travel",
-            "logo": "https://www.flaticon.com/free-icon/mountain_123456"
+            "id": 0,
+            "genre": "Adventure Travel 📱"
         },
         {
-            "genre": "Beach & Relaxation",
-            "logo": "https://www.flaticon.com/free-icon/beach_234567"
+            "id": 1,
+            "genre": "City Breaks 🏢"
         },
         {
-            "genre": "Cultural / Heritage Travel",
-            "logo": "https://www.flaticon.com/free-icon/museum_345678"
+            "id": 2,
+            "genre": "Cultural Exploration 🏛️"
         },
         {
-            "genre": "Nature & Wildlife",
-            "logo": "https://www.flaticon.com/free-icon/wildlife_456789"
+            "id": 3,
+            "genre": "Glamping ⛺"
         },
         {
-            "genre": "City Tours / Urban Travel",
-            "logo": "https://www.flaticon.com/free-icon/city_567890"
+            "id": 4,
+            "genre": "Beach Vacations 🏖️"
         },
         {
-            "genre": "Road Trips",
-            "logo": "https://www.flaticon.com/free-icon/road-trip_678901"
+            "id": 5,
+            "genre": "Nature Escapes 🌿"
         },
         {
-            "genre": "Luxury Travel",
-            "logo": "https://www.flaticon.com/free-icon/luxury_789012"
+            "id": 6,
+            "genre": "Relaxing Getaways 🏖️"
         },
         {
-            "genre": "Backpacking / Budget Travel",
-            "logo": "https://www.flaticon.com/free-icon/backpack_890123"
+            "id": 7,
+            "genre": "Road Trips 🚗"
         },
         {
-            "genre": "Camping",
-            "logo": "https://www.flaticon.com/free-icon/camping_901234"
+            "id": 8,
+            "genre": "Food Tourism 🍕"
         },
         {
-            "genre": "Cruises",
-            "logo": "https://www.flaticon.com/free-icon/cruise_012345"
+            "id": 9,
+            "genre": "Backpacking 🎒"
         },
         {
-            "genre": "Island Hopping",
-            "logo": "https://www.flaticon.com/free-icon/island_123457"
+            "id": 10,
+            "genre": "Cruise Vacations ⛵"
         },
         {
-            "genre": "Food Tourism / Culinary Travel",
-            "logo": "https://www.flaticon.com/free-icon/restaurant_234568"
+            "id": 11,
+            "genre": "Staycations 🏠"
         },
         {
-            "genre": "Religious / Spiritual Travel",
-            "logo": "https://www.flaticon.com/free-icon/temple_345679"
+            "id": 12,
+            "genre": "Skiing/Snowboarding 🎿"
         },
         {
-            "genre": "Desert Travel",
-            "logo": "https://www.flaticon.com/free-icon/desert_456780"
+            "id": 13,
+            "genre": "Wine Tours 🍷"
         },
         {
-            "genre": "Polar / Arctic Travel",
-            "logo": "https://www.flaticon.com/free-icon/iceberg_567891"
+            "id": 14,
+            "genre": "Wildlife Safaris 😊"
         },
         {
-            "genre": "Safari / African Travel",
-            "logo": "https://www.flaticon.com/free-icon/safari_678902"
+            "id": 15,
+            "genre": "Art Galleries 🎨"
         },
         {
-            "genre": "Festival / Event Tourism",
-            "logo": "https://www.flaticon.com/free-icon/festival_789013"
+            "id": 16,
+            "genre": "Historical Sites 👑"
         },
         {
-            "genre": "Solo Travel",
-            "logo": "https://www.flaticon.com/free-icon/solo_890124"
+            "id": 17,
+            "genre": "Eco-Tourism 🌿"
         },
         {
-            "genre": "Group Tours",
-            "logo": "https://www.flaticon.com/free-icon/group_901235"
+            "id": 18,
+            "genre": "Music Festivals 🎵"
         },
         {
-            "genre": "Eco-Tourism",
-            "logo": "https://www.flaticon.com/free-icon/eco_012346"
+            "id": 19,
+            "genre": "Culinary Tours 🍴"
         },
         {
-            "genre": "Wellness Retreats",
-            "logo": "https://www.flaticon.com/free-icon/spa_123458"
+            "id": 20,
+            "genre": "Yoga Retreats 🧘"
         },
         {
-            "genre": "Photography Travel",
-            "logo": "https://www.flaticon.com/free-icon/camera_234569"
+            "id": 21,
+            "genre": "Group Tours 👥"
         },
         {
-            "genre": "Digital Nomad Destinations",
-            "logo": "https://www.flaticon.com/free-icon/laptop_345670"
+            "id": 22,
+            "genre": "Remote Destinations 🏝️"
         },
         {
-            "genre": "Winter Sports Travel",
-            "logo": "https://www.flaticon.com/free-icon/skiing_456781"
+            "id": 23,
+            "genre": "Island Hopping 🏝️"
+        },
+        {
+            "id": 24,
+            "genre": "Train Journeys 🚂"
+        },
+        {
+            "id": 25,
+            "genre": "Volunteering Abroad 🌍"
+        },
+        {
+            "id": 26,
+            "genre": "Solo Travel 🚶"
+        },
+        {
+            "id": 27,
+            "genre": "Spa Getaways 🧘"
+        },
+        {
+            "id": 28,
+            "genre": "Desert Adventures 🌵"
+        },
+        {
+            "id": 29,
+            "genre": "Mountain Retreats ⛰️"
         }
     ]
 }

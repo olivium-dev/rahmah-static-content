@@ -1,0 +1,20 @@
+{
+    "workout": [
+        {
+            "id": 0,
+            "workout": "Everyday"
+        },
+        {
+            "id": 1,
+            "workout": "Often"
+        },
+        {
+            "id": 2,
+            "workout": "Sometimes"
+        },
+        {
+            "id": 3,
+            "workout": "Never"
+        }
+    ]
+}

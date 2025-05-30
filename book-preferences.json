@@ -1,172 +1,172 @@
 {
     "book_preferences": [
         {
-            "genre": "Fiction",
-            "logo": "https://www.flaticon.com/free-icon/fiction_123456"
+            "id": 0,
+            "genre": "Fiction 📖"
         },
         {
-            "genre": "Non-Fiction",
-            "logo": "https://www.flaticon.com/free-icon/non-fiction_234567"
+            "id": 1,
+            "genre": "Non-Fiction 📚"
         },
         {
-            "genre": "Fantasy",
-            "logo": "https://www.flaticon.com/free-icon/fantasy_345678"
+            "id": 2,
+            "genre": "Sci-Fi 🚀"
         },
         {
-            "genre": "Science Fiction",
-            "logo": "https://www.flaticon.com/free-icon/science-fiction_456789"
+            "id": 3,
+            "genre": "Romance 💕"
         },
         {
-            "genre": "Mystery",
-            "logo": "https://www.flaticon.com/free-icon/mystery_567890"
+            "id": 4,
+            "genre": "Plays 🎭"
         },
         {
-            "genre": "Thriller",
-            "logo": "https://www.flaticon.com/free-icon/thriller_678901"
+            "id": 5,
+            "genre": "Comics 📚📚"
         },
         {
-            "genre": "Romance",
-            "logo": "https://www.flaticon.com/free-icon/romance_789012"
+            "id": 6,
+            "genre": "Science 🔬"
         },
         {
-            "genre": "Historical Fiction",
-            "logo": "https://www.flaticon.com/free-icon/historical-fiction_890123"
+            "id": 7,
+            "genre": "Historical Fiction 👑"
         },
         {
-            "genre": "Horror",
-            "logo": "https://www.flaticon.com/free-icon/horror_901234"
+            "id": 8,
+            "genre": "Biography 📖"
         },
         {
-            "genre": "Biography",
-            "logo": "https://www.flaticon.com/free-icon/biography_012345"
+            "id": 9,
+            "genre": "Self-Help 📝"
         },
         {
-            "genre": "Autobiography",
-            "logo": "https://www.flaticon.com/free-icon/autobiography_123457"
+            "id": 10,
+            "genre": "Poetry 📝"
         },
         {
-            "genre": "Self-Help",
-            "logo": "https://www.flaticon.com/free-icon/self-help_234568"
+            "id": 11,
+            "genre": "Essays 📝"
         },
         {
-            "genre": "Psychology",
-            "logo": "https://www.flaticon.com/free-icon/psychology_345679"
+            "id": 12,
+            "genre": "Fantasy 📖"
         },
         {
-            "genre": "Philosophy",
-            "logo": "https://www.flaticon.com/free-icon/philosophy_456780"
+            "id": 13,
+            "genre": "Young Adult 📚"
         },
         {
-            "genre": "Religion / Spirituality",
-            "logo": "https://www.flaticon.com/free-icon/religion_567891"
+            "id": 14,
+            "genre": "Classic Literature 📖"
         },
         {
-            "genre": "Science / Nature",
-            "logo": "https://www.flaticon.com/free-icon/science_678902"
+            "id": 15,
+            "genre": "Mystery/Thriller 🔍"
         },
         {
-            "genre": "Health / Wellness",
-            "logo": "https://www.flaticon.com/free-icon/health_789013"
+            "id": 16,
+            "genre": "Paranormal 👻"
         },
         {
-            "genre": "Business / Economics",
-            "logo": "https://www.flaticon.com/free-icon/business_890124"
+            "id": 17,
+            "genre": "Travel ✈️"
         },
         {
-            "genre": "Politics",
-            "logo": "https://www.flaticon.com/free-icon/politics_901235"
+            "id": 18,
+            "genre": "Business 📊"
         },
         {
-            "genre": "True Crime",
-            "logo": "https://www.flaticon.com/free-icon/true-crime_012346"
+            "id": 19,
+            "genre": "Horror 👻"
         },
         {
-            "genre": "Poetry",
-            "logo": "https://www.flaticon.com/free-icon/poetry_123458"
+            "id": 20,
+            "genre": "Philosophy 🧠"
         },
         {
-            "genre": "Young Adult (YA)",
-            "logo": "https://www.flaticon.com/free-icon/young-adult_234569"
+            "id": 21,
+            "genre": "Humor 😊"
         },
         {
-            "genre": "Children's Books",
-            "logo": "https://www.flaticon.com/free-icon/children-books_345670"
+            "id": 22,
+            "genre": "Drama 🎭"
         },
         {
-            "genre": "Comics / Graphic Novels",
-            "logo": "https://www.flaticon.com/free-icon/comics_456781"
+            "id": 23,
+            "genre": "Space Opera 🚀📚"
         },
         {
-            "genre": "Travel",
-            "logo": "https://www.flaticon.com/free-icon/travel_567892"
+            "id": 24,
+            "genre": "Cyberpunk 🤖"
         },
         {
-            "genre": "Cookbooks / Food",
-            "logo": "https://www.flaticon.com/free-icon/cookbook_678903"
+            "id": 25,
+            "genre": "Urban Fantasy 🏙️⭐"
         },
         {
-            "genre": "Art / Photography",
-            "logo": "https://www.flaticon.com/free-icon/art_789014"
+            "id": 26,
+            "genre": "Graphic Novels 📚📖"
         },
         {
-            "genre": "Education / Academic",
-            "logo": "https://www.flaticon.com/free-icon/education_890125"
+            "id": 27,
+            "genre": "Travelogues 🌍📚"
         },
         {
-            "genre": "Memoir",
-            "logo": "https://www.flaticon.com/free-icon/memoir_901236"
+            "id": 28,
+            "genre": "True Crime 🔍"
         },
         {
-            "genre": "Classic Literature",
-            "logo": "https://www.flaticon.com/free-icon/classic-literature_123459"
+            "id": 29,
+            "genre": "Autobiography 📚📖"
         },
         {
-            "genre": "Adventure",
-            "logo": "https://www.flaticon.com/free-icon/adventure_234570"
+            "id": 30,
+            "genre": "Religious Texts 📚🙏"
         },
         {
-            "genre": "Dystopian",
-            "logo": "https://www.flaticon.com/free-icon/dystopian_345681"
+            "id": 31,
+            "genre": "Anthologies 📖📚"
         },
         {
-            "genre": "Short Stories",
-            "logo": "https://www.flaticon.com/free-icon/short-stories_456792"
+            "id": 32,
+            "genre": "Memoir 📝"
         },
         {
-            "genre": "Anthologies",
-            "logo": "https://www.flaticon.com/free-icon/anthology_567803"
+            "id": 33,
+            "genre": "Art & Photography 📷📚"
         },
         {
-            "genre": "Christian Literature",
-            "logo": "https://www.flaticon.com/free-icon/christian-literature_678914"
+            "id": 34,
+            "genre": "Dystopian 🏢"
         },
         {
-            "genre": "Islamic Literature",
-            "logo": "https://www.flaticon.com/free-icon/islamic-literature_789025"
+            "id": 35,
+            "genre": "Science Fiction Fantasy 🚀📚"
         },
         {
-            "genre": "Historical / War",
-            "logo": "https://www.flaticon.com/free-icon/historical-war_890136"
+            "id": 36,
+            "genre": "Satire 😏"
         },
         {
-            "genre": "Legal / Courtroom Drama",
-            "logo": "https://www.flaticon.com/free-icon/legal-drama_901247"
+            "id": 37,
+            "genre": "Craft & Hobbies 🔨🎨"
         },
         {
-            "genre": "Sports",
-            "logo": "https://www.flaticon.com/free-icon/sports_012358"
+            "id": 38,
+            "genre": "Cookbooks 🍳"
         },
         {
-            "genre": "Technology / Programming",
-            "logo": "https://www.flaticon.com/free-icon/technology_123460"
+            "id": 39,
+            "genre": "Alternate History 🌍"
         },
         {
-            "genre": "Esoteric / Occult",
-            "logo": "https://www.flaticon.com/free-icon/occult_234571"
+            "id": 40,
+            "genre": "Short Stories 📚📝"
         },
         {
-            "genre": "Journalism / Investigative",
-            "logo": "https://www.flaticon.com/free-icon/journalism_345682"
+            "id": 41,
+            "genre": "Children's Books 📖👶"
         }
     ]
 }

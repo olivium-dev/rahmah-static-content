@@ -1,124 +1,188 @@
 {
     "movies_preferences": [
         {
-            "genre": "Action",
-            "logo": "https://www.flaticon.com/free-icon/action_123456"
+            "id": 0,
+            "genre": "Action 🚀"
         },
         {
-            "genre": "Adventure",
-            "logo": "https://www.flaticon.com/free-icon/adventure_234567"
+            "id": 1,
+            "genre": "Comedy 😂"
         },
         {
-            "genre": "Comedy",
-            "logo": "https://www.flaticon.com/free-icon/comedy_345678"
+            "id": 2,
+            "genre": "Thriller 🔪"
         },
         {
-            "genre": "Drama",
-            "logo": "https://www.flaticon.com/free-icon/drama_456789"
+            "id": 3,
+            "genre": "Drama 🎭"
         },
         {
-            "genre": "Romance",
-            "logo": "https://www.flaticon.com/free-icon/romance_567890"
+            "id": 4,
+            "genre": "Sci-Fi 🚀"
         },
         {
-            "genre": "Horror",
-            "logo": "https://www.flaticon.com/free-icon/horror_678901"
+            "id": 5,
+            "genre": "Romance 💕"
         },
         {
-            "genre": "Thriller",
-            "logo": "https://www.flaticon.com/free-icon/thriller_789012"
+            "id": 6,
+            "genre": "Horror 👻"
         },
         {
-            "genre": "Science Fiction",
-            "logo": "https://www.flaticon.com/free-icon/science-fiction_890123"
+            "id": 7,
+            "genre": "Animated ❤️"
         },
         {
-            "genre": "Fantasy",
-            "logo": "https://www.flaticon.com/free-icon/fantasy_901234"
+            "id": 8,
+            "genre": "Spy 🕵️"
         },
         {
-            "genre": "Mystery",
-            "logo": "https://www.flaticon.com/free-icon/mystery_012345"
+            "id": 9,
+            "genre": "Adventure 📱"
         },
         {
-            "genre": "Crime",
-            "logo": "https://www.flaticon.com/free-icon/crime_123457"
+            "id": 10,
+            "genre": "Documentary 🎬"
         },
         {
-            "genre": "Biography",
-            "logo": "https://www.flaticon.com/free-icon/biography_234568"
+            "id": 11,
+            "genre": "Musical 🎵"
         },
         {
-            "genre": "History",
-            "logo": "https://www.flaticon.com/free-icon/history_345679"
+            "id": 12,
+            "genre": "Fantasy ⭐"
         },
         {
-            "genre": "War",
-            "logo": "https://www.flaticon.com/free-icon/war_456780"
+            "id": 13,
+            "genre": "Anime 🅾️"
         },
         {
-            "genre": "Western",
-            "logo": "https://www.flaticon.com/free-icon/western_567891"
+            "id": 14,
+            "genre": "Historical 📚"
         },
         {
-            "genre": "Animation",
-            "logo": "https://www.flaticon.com/free-icon/animation_678902"
+            "id": 15,
+            "genre": "War ⚔️"
         },
         {
-            "genre": "Family",
-            "logo": "https://www.flaticon.com/free-icon/family_789013"
+            "id": 16,
+            "genre": "Mystery 🔍"
         },
         {
-            "genre": "Musical",
-            "logo": "https://www.flaticon.com/free-icon/musical_890124"
+            "id": 17,
+            "genre": "Crime 🔫"
         },
         {
-            "genre": "Documentary",
-            "logo": "https://www.flaticon.com/free-icon/documentary_901235"
+            "id": 18,
+            "genre": "Family 👨‍👩‍👧‍👦"
         },
         {
-            "genre": "Sport",
-            "logo": "https://www.flaticon.com/free-icon/sport_012346"
+            "id": 19,
+            "genre": "Western 🤠"
         },
         {
-            "genre": "Superhero",
-            "logo": "https://www.flaticon.com/free-icon/superhero_123458"
+            "id": 20,
+            "genre": "Biographical 📖"
         },
         {
-            "genre": "Psychological",
-            "logo": "https://www.flaticon.com/free-icon/psychological_234569"
+            "id": 21,
+            "genre": "Courtroom ⚖️"
         },
         {
-            "genre": "Noir",
-            "logo": "https://www.flaticon.com/free-icon/noir_345670"
+            "id": 22,
+            "genre": "Sports ⚽"
         },
         {
-            "genre": "Short Film",
-            "logo": "https://www.flaticon.com/free-icon/short-film_456781"
+            "id": 23,
+            "genre": "Epic 👑"
         },
         {
-            "genre": "International / Foreign",
-            "logo": "https://www.flaticon.com/free-icon/international_567892"
+            "id": 24,
+            "genre": "Martial Arts 🥋"
         },
         {
-            "genre": "Silent Film",
-            "logo": "https://www.flaticon.com/free-icon/silent-film_678903"
+            "id": 25,
+            "genre": "K-Drama 🇰🇷"
         },
         {
-            "genre": "Teen",
-            "logo": "https://www.flaticon.com/free-icon/teen_789014"
+            "id": 26,
+            "genre": "Silent Films 🎬"
         },
         {
-            "genre": "Disaster",
-            "logo": "https://www.flaticon.com/free-icon/disaster_890125"
+            "id": 27,
+            "genre": "Film Noir 🎭"
         },
         {
-            "genre": "Cult Classic",
-            "logo": "https://www.flaticon.com/free-icon/cult-classic_901236"
+            "id": 28,
+            "genre": "Political 🏛️"
         },
         {
-            "genre": "Religious / Faith-Based",
-            "logo": "https://www.flaticon.com/free-icon/religious_012347"
+            "id": 29,
+            "genre": "Satire 😊"
+        },
+        {
+            "id": 30,
+            "genre": "Coming of Age 📈"
+        },
+        {
+            "id": 31,
+            "genre": "Superhero 🦸"
+        },
+        {
+            "id": 32,
+            "genre": "Disaster 🌪️"
+        },
+        {
+            "id": 33,
+            "genre": "Noir 🎭"
+        },
+        {
+            "id": 34,
+            "genre": "Cyberpunk 🤖"
+        },
+        {
+            "id": 35,
+            "genre": "Steampunk 💨"
+        },
+        {
+            "id": 36,
+            "genre": "Time Travel ⏰"
+        },
+        {
+            "id": 37,
+            "genre": "Found Footage 📹"
+        },
+        {
+            "id": 38,
+            "genre": "Buddy Cop 👮‍♂️👮‍♀️"
+        },
+        {
+            "id": 39,
+            "genre": "Fantasy Adventure 🏰🗡️"
+        },
+        {
+            "id": 40,
+            "genre": "Bollywood 🇮🇳🎬"
+        },
+        {
+            "id": 41,
+            "genre": "Cult Classics 🎭👁️"
+        },
+        {
+            "id": 42,
+            "genre": "Mockumentary 🎬"
+        },
+        {
+            "id": 43,
+            "genre": "Slice of Life 🍕🎭"
+        },
+        {
+            "id": 44,
+            "genre": "Foreign Films 🌍🎬"
+        },
+        {
+            "id": 45,
+            "genre": "Nollywood 🇳🇬🎬"
         }
     ]
 }

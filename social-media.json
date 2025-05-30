@@ -1,0 +1,16 @@
+{
+    "social_media": [
+        {
+            "id": 0,
+            "social_media": "Active on all"
+        },
+        {
+            "id": 1,
+            "social_media": "Active on some"
+        },
+        {
+            "id": 2,
+            "social_media": "Minimal Social Media Presence"
+        }
+    ]
+}

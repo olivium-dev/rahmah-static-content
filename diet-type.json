@@ -1,0 +1,52 @@
+{
+    "diet_type": [
+        {
+            "id": 0,
+            "diet": "Vegan"
+        },
+        {
+            "id": 1,
+            "diet": "Vegetarian"
+        },
+        {
+            "id": 2,
+            "diet": "Keto"
+        },
+        {
+            "id": 3,
+            "diet": "Omnivore"
+        },
+        {
+            "id": 4,
+            "diet": "Pescetarian"
+        },
+        {
+            "id": 5,
+            "diet": "Plant-Based"
+        },
+        {
+            "id": 6,
+            "diet": "Halal"
+        },
+        {
+            "id": 7,
+            "diet": "Kosher"
+        },
+        {
+            "id": 8,
+            "diet": "Gluten-Free"
+        },
+        {
+            "id": 9,
+            "diet": "Dairy-Free"
+        },
+        {
+            "id": 10,
+            "diet": "Raw Food"
+        },
+        {
+            "id": 11,
+            "diet": "Other"
+        }
+    ]
+}
