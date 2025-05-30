@@ -1,0 +1,36 @@
+{
+    "communication_style": [
+        {
+            "id": 0,
+            "name": "Chatty Cathy"
+        },
+        {
+            "id": 1,
+            "name": "Listener"
+        },
+        {
+            "id": 2,
+            "name": "Joker"
+        },
+        {
+            "id": 3,
+            "name": "Deep Thinker"
+        },
+        {
+            "id": 4,
+            "name": "Sarcastic Wit"
+        },
+        {
+            "id": 5,
+            "name": "Easygoing"
+        },
+        {
+            "id": 6,
+            "name": "Straight Shooter"
+        },
+        {
+            "id": 7,
+            "name": "Storyteller"
+        }
+    ]
+}

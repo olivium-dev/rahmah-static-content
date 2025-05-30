@@ -1,0 +1,28 @@
+{
+    "education": [
+        {
+            "id": 0,
+            "name": "High School"
+        },
+        {
+            "id": 1,
+            "name": "Bachelors"
+        },
+        {
+            "id": 2,
+            "name": "Masters"
+        },
+        {
+            "id": 3,
+            "name": "PhD"
+        },
+        {
+            "id": 4,
+            "name": "Trade School"
+        },
+        {
+            "id": 5,
+            "name": "Other"
+        }
+    ]
+}
