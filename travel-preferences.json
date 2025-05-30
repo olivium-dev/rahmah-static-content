@@ -1,124 +1,122 @@
-{
-    "travel_preferences": [
-        {
-            "id": 0,
-            "genre": "Adventure Travel 📱"
-        },
-        {
-            "id": 1,
-            "genre": "City Breaks 🏢"
-        },
-        {
-            "id": 2,
-            "genre": "Cultural Exploration 🏛️"
-        },
-        {
-            "id": 3,
-            "genre": "Glamping ⛺"
-        },
-        {
-            "id": 4,
-            "genre": "Beach Vacations 🏖️"
-        },
-        {
-            "id": 5,
-            "genre": "Nature Escapes 🌿"
-        },
-        {
-            "id": 6,
-            "genre": "Relaxing Getaways 🏖️"
-        },
-        {
-            "id": 7,
-            "genre": "Road Trips 🚗"
-        },
-        {
-            "id": 8,
-            "genre": "Food Tourism 🍕"
-        },
-        {
-            "id": 9,
-            "genre": "Backpacking 🎒"
-        },
-        {
-            "id": 10,
-            "genre": "Cruise Vacations ⛵"
-        },
-        {
-            "id": 11,
-            "genre": "Staycations 🏠"
-        },
-        {
-            "id": 12,
-            "genre": "Skiing/Snowboarding 🎿"
-        },
-        {
-            "id": 13,
-            "genre": "Wine Tours 🍷"
-        },
-        {
-            "id": 14,
-            "genre": "Wildlife Safaris 😊"
-        },
-        {
-            "id": 15,
-            "genre": "Art Galleries 🎨"
-        },
-        {
-            "id": 16,
-            "genre": "Historical Sites 👑"
-        },
-        {
-            "id": 17,
-            "genre": "Eco-Tourism 🌿"
-        },
-        {
-            "id": 18,
-            "genre": "Music Festivals 🎵"
-        },
-        {
-            "id": 19,
-            "genre": "Culinary Tours 🍴"
-        },
-        {
-            "id": 20,
-            "genre": "Yoga Retreats 🧘"
-        },
-        {
-            "id": 21,
-            "genre": "Group Tours 👥"
-        },
-        {
-            "id": 22,
-            "genre": "Remote Destinations 🏝️"
-        },
-        {
-            "id": 23,
-            "genre": "Island Hopping 🏝️"
-        },
-        {
-            "id": 24,
-            "genre": "Train Journeys 🚂"
-        },
-        {
-            "id": 25,
-            "genre": "Volunteering Abroad 🌍"
-        },
-        {
-            "id": 26,
-            "genre": "Solo Travel 🚶"
-        },
-        {
-            "id": 27,
-            "genre": "Spa Getaways 🧘"
-        },
-        {
-            "id": 28,
-            "genre": "Desert Adventures 🌵"
-        },
-        {
-            "id": 29,
-            "genre": "Mountain Retreats ⛰️"
-        }
-    ]
-}
+[
+    {
+        "id": 0,
+        "label": "Adventure Travel 📱"
+    },
+    {
+        "id": 1,
+        "label": "City Breaks 🏢"
+    },
+    {
+        "id": 2,
+        "label": "Cultural Exploration 🏛️"
+    },
+    {
+        "id": 3,
+        "label": "Glamping ⛺"
+    },
+    {
+        "id": 4,
+        "label": "Beach Vacations 🏖️"
+    },
+    {
+        "id": 5,
+        "label": "Nature Escapes 🌿"
+    },
+    {
+        "id": 6,
+        "label": "Relaxing Getaways 🏖️"
+    },
+    {
+        "id": 7,
+        "label": "Road Trips 🚗"
+    },
+    {
+        "id": 8,
+        "label": "Food Tourism 🍕"
+    },
+    {
+        "id": 9,
+        "label": "Backpacking 🎒"
+    },
+    {
+        "id": 10,
+        "label": "Cruise Vacations ⛵"
+    },
+    {
+        "id": 11,
+        "label": "Staycations 🏠"
+    },
+    {
+        "id": 12,
+        "label": "Skiing/Snowboarding 🎿"
+    },
+    {
+        "id": 13,
+        "label": "Wine Tours 🍷"
+    },
+    {
+        "id": 14,
+        "label": "Wildlife Safaris 😊"
+    },
+    {
+        "id": 15,
+        "label": "Art Galleries 🎨"
+    },
+    {
+        "id": 16,
+        "label": "Historical Sites 👑"
+    },
+    {
+        "id": 17,
+        "label": "Eco-Tourism 🌿"
+    },
+    {
+        "id": 18,
+        "label": "Music Festivals 🎵"
+    },
+    {
+        "id": 19,
+        "label": "Culinary Tours 🍴"
+    },
+    {
+        "id": 20,
+        "label": "Yoga Retreats 🧘"
+    },
+    {
+        "id": 21,
+        "label": "Group Tours 👥"
+    },
+    {
+        "id": 22,
+        "label": "Remote Destinations 🏝️"
+    },
+    {
+        "id": 23,
+        "label": "Island Hopping 🏝️"
+    },
+    {
+        "id": 24,
+        "label": "Train Journeys 🚂"
+    },
+    {
+        "id": 25,
+        "label": "Volunteering Abroad 🌍"
+    },
+    {
+        "id": 26,
+        "label": "Solo Travel 🚶"
+    },
+    {
+        "id": 27,
+        "label": "Spa Getaways 🧘"
+    },
+    {
+        "id": 28,
+        "label": "Desert Adventures 🌵"
+    },
+    {
+        "id": 29,
+        "label": "Mountain Retreats ⛰️"
+    }
+]

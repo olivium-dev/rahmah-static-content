@@ -1,172 +1,170 @@
-{
-    "book_preferences": [
-        {
-            "id": 0,
-            "genre": "Fiction 📖"
-        },
-        {
-            "id": 1,
-            "genre": "Non-Fiction 📚"
-        },
-        {
-            "id": 2,
-            "genre": "Sci-Fi 🚀"
-        },
-        {
-            "id": 3,
-            "genre": "Romance 💕"
-        },
-        {
-            "id": 4,
-            "genre": "Plays 🎭"
-        },
-        {
-            "id": 5,
-            "genre": "Comics 📚📚"
-        },
-        {
-            "id": 6,
-            "genre": "Science 🔬"
-        },
-        {
-            "id": 7,
-            "genre": "Historical Fiction 👑"
-        },
-        {
-            "id": 8,
-            "genre": "Biography 📖"
-        },
-        {
-            "id": 9,
-            "genre": "Self-Help 📝"
-        },
-        {
-            "id": 10,
-            "genre": "Poetry 📝"
-        },
-        {
-            "id": 11,
-            "genre": "Essays 📝"
-        },
-        {
-            "id": 12,
-            "genre": "Fantasy 📖"
-        },
-        {
-            "id": 13,
-            "genre": "Young Adult 📚"
-        },
-        {
-            "id": 14,
-            "genre": "Classic Literature 📖"
-        },
-        {
-            "id": 15,
-            "genre": "Mystery/Thriller 🔍"
-        },
-        {
-            "id": 16,
-            "genre": "Paranormal 👻"
-        },
-        {
-            "id": 17,
-            "genre": "Travel ✈️"
-        },
-        {
-            "id": 18,
-            "genre": "Business 📊"
-        },
-        {
-            "id": 19,
-            "genre": "Horror 👻"
-        },
-        {
-            "id": 20,
-            "genre": "Philosophy 🧠"
-        },
-        {
-            "id": 21,
-            "genre": "Humor 😊"
-        },
-        {
-            "id": 22,
-            "genre": "Drama 🎭"
-        },
-        {
-            "id": 23,
-            "genre": "Space Opera 🚀📚"
-        },
-        {
-            "id": 24,
-            "genre": "Cyberpunk 🤖"
-        },
-        {
-            "id": 25,
-            "genre": "Urban Fantasy 🏙️⭐"
-        },
-        {
-            "id": 26,
-            "genre": "Graphic Novels 📚📖"
-        },
-        {
-            "id": 27,
-            "genre": "Travelogues 🌍📚"
-        },
-        {
-            "id": 28,
-            "genre": "True Crime 🔍"
-        },
-        {
-            "id": 29,
-            "genre": "Autobiography 📚📖"
-        },
-        {
-            "id": 30,
-            "genre": "Religious Texts 📚🙏"
-        },
-        {
-            "id": 31,
-            "genre": "Anthologies 📖📚"
-        },
-        {
-            "id": 32,
-            "genre": "Memoir 📝"
-        },
-        {
-            "id": 33,
-            "genre": "Art & Photography 📷📚"
-        },
-        {
-            "id": 34,
-            "genre": "Dystopian 🏢"
-        },
-        {
-            "id": 35,
-            "genre": "Science Fiction Fantasy 🚀📚"
-        },
-        {
-            "id": 36,
-            "genre": "Satire 😏"
-        },
-        {
-            "id": 37,
-            "genre": "Craft & Hobbies 🔨🎨"
-        },
-        {
-            "id": 38,
-            "genre": "Cookbooks 🍳"
-        },
-        {
-            "id": 39,
-            "genre": "Alternate History 🌍"
-        },
-        {
-            "id": 40,
-            "genre": "Short Stories 📚📝"
-        },
-        {
-            "id": 41,
-            "genre": "Children's Books 📖👶"
-        }
-    ]
-}
+[
+    {
+        "id": 0,
+        "label": "Fiction 📖"
+    },
+    {
+        "id": 1,
+        "label": "Non-Fiction 📚"
+    },
+    {
+        "id": 2,
+        "label": "Sci-Fi 🚀"
+    },
+    {
+        "id": 3,
+        "label": "Romance 💕"
+    },
+    {
+        "id": 4,
+        "label": "Plays 🎭"
+    },
+    {
+        "id": 5,
+        "label": "Comics 📚📚"
+    },
+    {
+        "id": 6,
+        "label": "Science 🔬"
+    },
+    {
+        "id": 7,
+        "label": "Historical Fiction 👑"
+    },
+    {
+        "id": 8,
+        "label": "Biography 📖"
+    },
+    {
+        "id": 9,
+        "label": "Self-Help 📝"
+    },
+    {
+        "id": 10,
+        "label": "Poetry 📝"
+    },
+    {
+        "id": 11,
+        "label": "Essays 📝"
+    },
+    {
+        "id": 12,
+        "label": "Fantasy 📖"
+    },
+    {
+        "id": 13,
+        "label": "Young Adult 📚"
+    },
+    {
+        "id": 14,
+        "label": "Classic Literature 📖"
+    },
+    {
+        "id": 15,
+        "label": "Mystery/Thriller 🔍"
+    },
+    {
+        "id": 16,
+        "label": "Paranormal 👻"
+    },
+    {
+        "id": 17,
+        "label": "Travel ✈️"
+    },
+    {
+        "id": 18,
+        "label": "Business 📊"
+    },
+    {
+        "id": 19,
+        "label": "Horror 👻"
+    },
+    {
+        "id": 20,
+        "label": "Philosophy 🧠"
+    },
+    {
+        "id": 21,
+        "label": "Humor 😊"
+    },
+    {
+        "id": 22,
+        "label": "Drama 🎭"
+    },
+    {
+        "id": 23,
+        "label": "Space Opera 🚀📚"
+    },
+    {
+        "id": 24,
+        "label": "Cyberpunk 🤖"
+    },
+    {
+        "id": 25,
+        "label": "Urban Fantasy 🏙️⭐"
+    },
+    {
+        "id": 26,
+        "label": "Graphic Novels 📚📖"
+    },
+    {
+        "id": 27,
+        "label": "Travelogues 🌍📚"
+    },
+    {
+        "id": 28,
+        "label": "True Crime 🔍"
+    },
+    {
+        "id": 29,
+        "label": "Autobiography 📚📖"
+    },
+    {
+        "id": 30,
+        "label": "Religious Texts 📚🙏"
+    },
+    {
+        "id": 31,
+        "label": "Anthologies 📖📚"
+    },
+    {
+        "id": 32,
+        "label": "Memoir 📝"
+    },
+    {
+        "id": 33,
+        "label": "Art & Photography 📷📚"
+    },
+    {
+        "id": 34,
+        "label": "Dystopian 🏢"
+    },
+    {
+        "id": 35,
+        "label": "Science Fiction Fantasy 🚀📚"
+    },
+    {
+        "id": 36,
+        "label": "Satire 😏"
+    },
+    {
+        "id": 37,
+        "label": "Craft & Hobbies 🔨🎨"
+    },
+    {
+        "id": 38,
+        "label": "Cookbooks 🍳"
+    },
+    {
+        "id": 39,
+        "label": "Alternate History 🌍"
+    },
+    {
+        "id": 40,
+        "label": "Short Stories 📚📝"
+    },
+    {
+        "id": 41,
+        "label": "Children's Books 📖👶"
+    }
+]

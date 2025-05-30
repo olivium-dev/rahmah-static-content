@@ -1,16 +1,14 @@
-{
-    "family_plans": [
-        {
-            "id": 0,
-            "name": "Wants Kids"
-        },
-        {
-            "id": 1,
-            "name": "Doesn't Want Kids"
-        },
-        {
-            "id": 2,
-            "name": "Not Sure Yet"
-        }
-    ]
-}
+[
+    {
+        "id": 0,
+        "type": "Wants Kids"
+    },
+    {
+        "id": 1,
+        "type": "Doesn't Want Kids"
+    },
+    {
+        "id": 2,
+        "type": "Not Sure Yet"
+    }
+]

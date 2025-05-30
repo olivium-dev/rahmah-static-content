@@ -1,28 +1,26 @@
-{
-    "love_style": [
-        {
-            "id": 0,
-            "name": "Hopeful Romantic"
-        },
-        {
-            "id": 1,
-            "name": "Adventure Seeker"
-        },
-        {
-            "id": 2,
-            "name": "Best Friend"
-        },
-        {
-            "id": 3,
-            "name": "Independent Spirit"
-        },
-        {
-            "id": 4,
-            "name": "Caregiver"
-        },
-        {
-            "id": 5,
-            "name": "Spontaneous Adventurer"
-        }
-    ]
-}
+[
+    {
+        "id": 0,
+        "label": "Hopeful Romantic"
+    },
+    {
+        "id": 1,
+        "label": "Adventure Seeker"
+    },
+    {
+        "id": 2,
+        "label": "Best Friend"
+    },
+    {
+        "id": 3,
+        "label": "Independent Spirit"
+    },
+    {
+        "id": 4,
+        "label": "Caregiver"
+    },
+    {
+        "id": 5,
+        "label": "Spontaneous Adventurer"
+    }
+]

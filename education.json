@@ -1,28 +1,26 @@
-{
-    "education": [
-        {
-            "id": 0,
-            "name": "High School"
-        },
-        {
-            "id": 1,
-            "name": "Bachelors"
-        },
-        {
-            "id": 2,
-            "name": "Masters"
-        },
-        {
-            "id": 3,
-            "name": "PhD"
-        },
-        {
-            "id": 4,
-            "name": "Trade School"
-        },
-        {
-            "id": 5,
-            "name": "Other"
-        }
-    ]
-}
+[
+    {
+        "id": 0,
+        "type": "High School"
+    },
+    {
+        "id": 1,
+        "type": "Bachelors"
+    },
+    {
+        "id": 2,
+        "type": "Masters"
+    },
+    {
+        "id": 3,
+        "type": "PhD"
+    },
+    {
+        "id": 4,
+        "type": "Trade School"
+    },
+    {
+        "id": 5,
+        "type": "Other"
+    }
+]

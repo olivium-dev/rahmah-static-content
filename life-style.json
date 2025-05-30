@@ -1,124 +1,122 @@
+[
 {
-    "lifestyle_preferences": [
-        {
-            "id": 0,
-            "genre": "Healthy Living"
-        },
-        {
-            "id": 1,
-            "genre": "Fitness & Gym"
-        },
-        {
-            "id": 2,
-            "genre": "Yoga & Meditation"
-        },
-        {
-            "id": 3,
-            "genre": "Vegan / Vegetarian"
-        },
-        {
-            "id": 4,
-            "genre": "Tech Enthusiast"
-        },
-        {
-            "id": 5,
-            "genre": "Minimalism"
-        },
-        {
-            "id": 6,
-            "genre": "Spiritual / Religious"
-        },
-        {
-            "id": 7,
-            "genre": "Outdoor & Nature Lover"
-        },
-        {
-            "id": 8,
-            "genre": "Pet Lover"
-        },
-        {
-            "id": 9,
-            "genre": "Fashion & Style"
-        },
-        {
-            "id": 10,
-            "genre": "Luxury Living"
-        },
-        {
-            "id": 11,
-            "genre": "Budget Living"
-        },
-        {
-            "id": 12,
-            "genre": "Travel Addict"
-        },
-        {
-            "id": 13,
-            "genre": "Digital Nomad"
-        },
-        {
-            "id": 14,
-            "genre": "Entrepreneurial"
-        },
-        {
-            "id": 15,
-            "genre": "Bookworm"
-        },
-        {
-            "id": 16,
-            "genre": "Coffee Lover"
-        },
-        {
-            "id": 17,
-            "genre": "Night Owl"
-        },
-        {
-            "id": 18,
-            "genre": "Early Riser"
-        },
-        {
-            "id": 19,
-            "genre": "Social Butterfly"
-        },
-        {
-            "id": 20,
-            "genre": "Homebody"
-        },
-        {
-            "id": 21,
-            "genre": "Creative / Artistic"
-        },
-        {
-            "id": 22,
-            "genre": "Adventurous"
-        },
-        {
-            "id": 23,
-            "genre": "Mindfulness / Self-Care"
-        },
-        {
-            "id": 24,
-            "genre": "Eco-Friendly"
-        },
-        {
-            "id": 25,
-            "genre": "Gamer"
-        },
-        {
-            "id": 26,
-            "genre": "Foodie"
-        },
-        {
-            "id": 27,
-            "genre": "Workaholic"
-        },
-        {
-            "id": 28,
-            "genre": "Parenting Focused"
-        },
-        {
-            "id": 29,
-            "genre": "Volunteer / Community Service"
-        }
-    ]
+    "id": 0,
+    "label": "Healthy Living"
+},
+{
+    "id": 1,
+    "label": "Fitness & Gym"
+},
+{
+    "id": 2,
+    "label": "Yoga & Meditation"
+},
+{
+    "id": 3,
+    "label": "Vegan / Vegetarian"
+},
+{
+    "id": 4,
+    "label": "Tech Enthusiast"
+},
+{
+    "id": 5,
+    "label": "Minimalism"
+},
+{
+    "id": 6,
+    "label": "Spiritual / Religious"
+},
+{
+    "id": 7,
+    "label": "Outdoor & Nature Lover"
+},
+{
+    "id": 8,
+    "label": "Pet Lover"
+},
+{
+    "id": 9,
+    "label": "Fashion & Style"
+},
+{
+    "id": 10,
+    "label": "Luxury Living"
+},
+{
+    "id": 11,
+    "label": "Budget Living"
+},
+{
+    "id": 12,
+    "label": "Travel Addict"
+},
+{
+    "id": 13,
+    "label": "Digital Nomad"
+},
+{
+    "id": 14,
+    "label": "Entrepreneurial"
+},
+{
+    "id": 15,
+    "label": "Bookworm"
+},
+{
+    "id": 16,
+    "label": "Coffee Lover"
+},
+{
+    "id": 17,
+    "label": "Night Owl"
+},
+{
+    "id": 18,
+    "label": "Early Riser"
+},
+{
+    "id": 19,
+    "label": "Social Butterfly"
+},
+{
+    "id": 20,
+    "label": "Homebody"
+},
+{
+    "id": 21,
+    "label": "Creative / Artistic"
+},
+{
+    "id": 22,
+    "label": "Adventurous"
+},
+{
+    "id": 23,
+    "label": "Mindfulness / Self-Care"
+},
+{
+    "id": 24,
+    "label": "Eco-Friendly"
+},
+{
+    "id": 25,
+    "label": "Gamer"
+},
+{
+    "id": 26,
+    "label": "Foodie"
+},
+{
+    "id": 27,
+    "label": "Workaholic"
+},
+{
+    "id": 28,
+    "label": "Parenting Focused"
+},
+{
+    "id": 29,
+    "label": "Volunteer / Community Service"
 }
+]

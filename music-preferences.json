@@ -1,204 +1,202 @@
-{
-    "music_preferences": [
-        {
-            "id": 0,
-            "genre": "Pop 🎵"
-        },
-        {
-            "id": 1,
-            "genre": "Rock 🎸"
-        },
-        {
-            "id": 2,
-            "genre": "R&B 🎶"
-        },
-        {
-            "id": 3,
-            "genre": "Country 🤠"
-        },
-        {
-            "id": 4,
-            "genre": "Jazz 🎺"
-        },
-        {
-            "id": 5,
-            "genre": "Hip-Hop 🎤"
-        },
-        {
-            "id": 6,
-            "genre": "Classical 🎻"
-        },
-        {
-            "id": 7,
-            "genre": "Electronic 🎧"
-        },
-        {
-            "id": 8,
-            "genre": "Indie 🎵"
-        },
-        {
-            "id": 9,
-            "genre": "Reggae 🌴"
-        },
-        {
-            "id": 10,
-            "genre": "Blues 🎸"
-        },
-        {
-            "id": 11,
-            "genre": "Metal 🤘"
-        },
-        {
-            "id": 12,
-            "genre": "Latin 🌶️"
-        },
-        {
-            "id": 13,
-            "genre": "K-Pop 🇰🇷"
-        },
-        {
-            "id": 14,
-            "genre": "Punk 🤘"
-        },
-        {
-            "id": 15,
-            "genre": "Alternative 🎵"
-        },
-        {
-            "id": 16,
-            "genre": "Folk 🎵"
-        },
-        {
-            "id": 17,
-            "genre": "Funk 🎸"
-        },
-        {
-            "id": 18,
-            "genre": "World 🌍"
-        },
-        {
-            "id": 19,
-            "genre": "EDM 🎧"
-        },
-        {
-            "id": 20,
-            "genre": "Rap 🎤"
-        },
-        {
-            "id": 21,
-            "genre": "Soul 🎵"
-        },
-        {
-            "id": 22,
-            "genre": "Opera 🎭"
-        },
-        {
-            "id": 23,
-            "genre": "Disco 🕺"
-        },
-        {
-            "id": 24,
-            "genre": "Ambient 🌌"
-        },
-        {
-            "id": 25,
-            "genre": "Ska 🎺"
-        },
-        {
-            "id": 26,
-            "genre": "J-Pop 🇯🇵"
-        },
-        {
-            "id": 27,
-            "genre": "Bollywood 🎬"
-        },
-        {
-            "id": 28,
-            "genre": "Gospel 🙏"
-        },
-        {
-            "id": 29,
-            "genre": "House 🏠"
-        },
-        {
-            "id": 30,
-            "genre": "New Age 🌟"
-        },
-        {
-            "id": 31,
-            "genre": "Trance 🌀"
-        },
-        {
-            "id": 32,
-            "genre": "Techno 🎵"
-        },
-        {
-            "id": 33,
-            "genre": "Salsa 🌶️"
-        },
-        {
-            "id": 34,
-            "genre": "Flamenco 🌶️"
-        },
-        {
-            "id": 35,
-            "genre": "Swing 🎵"
-        },
-        {
-            "id": 36,
-            "genre": "Acoustic 🎸"
-        },
-        {
-            "id": 37,
-            "genre": "Synth-Pop 🎹"
-        },
-        {
-            "id": 38,
-            "genre": "Choir 🎵"
-        },
-        {
-            "id": 39,
-            "genre": "Grunge 🎸"
-        },
-        {
-            "id": 40,
-            "genre": "Chiptune 🎮"
-        },
-        {
-            "id": 41,
-            "genre": "Barbershop 🎤"
-        },
-        {
-            "id": 42,
-            "genre": "Chamber 🎻"
-        },
-        {
-            "id": 43,
-            "genre": "Downtempo 📉"
-        },
-        {
-            "id": 44,
-            "genre": "Psychedelic 🌈"
-        },
-        {
-            "id": 45,
-            "genre": "Progressive 🎵"
-        },
-        {
-            "id": 46,
-            "genre": "Experimental 🎵"
-        },
-        {
-            "id": 47,
-            "genre": "Industrial 🏭"
-        },
-        {
-            "id": 48,
-            "genre": "World Fusion 🌍"
-        },
-        {
-            "id": 49,
-            "genre": "Trip-Hop 🎧🎵"
-        }
-    ]
-}
+[
+    {
+        "id": 0,
+        "label": "Pop 🎵"
+    },
+    {
+        "id": 1,
+        "label": "Rock 🎸"
+    },
+    {
+        "id": 2,
+        "label": "R&B 🎶"
+    },
+    {
+        "id": 3,
+        "label": "Country 🤠"
+    },
+    {
+        "id": 4,
+        "label": "Jazz 🎺"
+    },
+    {
+        "id": 5,
+        "label": "Hip-Hop 🎤"
+    },
+    {
+        "id": 6,
+        "label": "Classical 🎻"
+    },
+    {
+        "id": 7,
+        "label": "Electronic 🎧"
+    },
+    {
+        "id": 8,
+        "label": "Indie 🎵"
+    },
+    {
+        "id": 9,
+        "label": "Reggae 🌴"
+    },
+    {
+        "id": 10,
+        "label": "Blues 🎸"
+    },
+    {
+        "id": 11,
+        "label": "Metal 🤘"
+    },
+    {
+        "id": 12,
+        "label": "Latin 🌶️"
+    },
+    {
+        "id": 13,
+        "label": "K-Pop 🇰🇷"
+    },
+    {
+        "id": 14,
+        "label": "Punk 🤘"
+    },
+    {
+        "id": 15,
+        "label": "Alternative 🎵"
+    },
+    {
+        "id": 16,
+        "label": "Folk 🎵"
+    },
+    {
+        "id": 17,
+        "label": "Funk 🎸"
+    },
+    {
+        "id": 18,
+        "label": "World 🌍"
+    },
+    {
+        "id": 19,
+        "label": "EDM 🎧"
+    },
+    {
+        "id": 20,
+        "label": "Rap 🎤"
+    },
+    {
+        "id": 21,
+        "label": "Soul 🎵"
+    },
+    {
+        "id": 22,
+        "label": "Opera 🎭"
+    },
+    {
+        "id": 23,
+        "label": "Disco 🕺"
+    },
+    {
+        "id": 24,
+        "label": "Ambient 🌌"
+    },
+    {
+        "id": 25,
+        "label": "Ska 🎺"
+    },
+    {
+        "id": 26,
+        "label": "J-Pop 🇯🇵"
+    },
+    {
+        "id": 27,
+        "label": "Bollywood 🎬"
+    },
+    {
+        "id": 28,
+        "label": "Gospel 🙏"
+    },
+    {
+        "id": 29,
+        "label": "House 🏠"
+    },
+    {
+        "id": 30,
+        "label": "New Age 🌟"
+    },
+    {
+        "id": 31,
+        "label": "Trance 🌀"
+    },
+    {
+        "id": 32,
+        "label": "Techno 🎵"
+    },
+    {
+        "id": 33,
+        "label": "Salsa 🌶️"
+    },
+    {
+        "id": 34,
+        "label": "Flamenco 🌶️"
+    },
+    {
+        "id": 35,
+        "label": "Swing 🎵"
+    },
+    {
+        "id": 36,
+        "label": "Acoustic 🎸"
+    },
+    {
+        "id": 37,
+        "label": "Synth-Pop 🎹"
+    },
+    {
+        "id": 38,
+        "label": "Choir 🎵"
+    },
+    {
+        "id": 39,
+        "label": "Grunge 🎸"
+    },
+    {
+        "id": 40,
+        "label": "Chiptune 🎮"
+    },
+    {
+        "id": 41,
+        "label": "Barbershop 🎤"
+    },
+    {
+        "id": 42,
+        "label": "Chamber 🎻"
+    },
+    {
+        "id": 43,
+        "label": "Downtempo 📉"
+    },
+    {
+        "id": 44,
+        "label": "Psychedelic 🌈"
+    },
+    {
+        "id": 45,
+        "label": "Progressive 🎵"
+    },
+    {
+        "id": 46,
+        "label": "Experimental 🎵"
+    },
+    {
+        "id": 47,
+        "label": "Industrial 🏭"
+    },
+    {
+        "id": 48,
+        "label": "World Fusion 🌍"
+    },
+    {
+        "id": 49,
+        "label": "Trip-Hop 🎧🎵"
+    }
+]

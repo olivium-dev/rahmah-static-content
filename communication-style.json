@@ -1,36 +1,34 @@
-{
-    "communication_style": [
-        {
-            "id": 0,
-            "name": "Chatty Cathy"
-        },
-        {
-            "id": 1,
-            "name": "Listener"
-        },
-        {
-            "id": 2,
-            "name": "Joker"
-        },
-        {
-            "id": 3,
-            "name": "Deep Thinker"
-        },
-        {
-            "id": 4,
-            "name": "Sarcastic Wit"
-        },
-        {
-            "id": 5,
-            "name": "Easygoing"
-        },
-        {
-            "id": 6,
-            "name": "Straight Shooter"
-        },
-        {
-            "id": 7,
-            "name": "Storyteller"
-        }
-    ]
-}
+[
+    {
+        "id": 0,
+        "label": "Chatty Cathy"
+    },
+    {
+        "id": 1,
+        "label": "Listener"
+    },
+    {
+        "id": 2,
+        "label": "Joker"
+    },
+    {
+        "id": 3,
+        "label": "Deep Thinker"
+    },
+    {
+        "id": 4,
+        "label": "Sarcastic Wit"
+    },
+    {
+        "id": 5,
+        "label": "Easygoing"
+    },
+    {
+        "id": 6,
+        "label": "Straight Shooter"
+    },
+    {
+        "id": 7,
+        "label": "Storyteller"
+    }
+]

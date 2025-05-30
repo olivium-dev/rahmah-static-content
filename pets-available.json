@@ -1,44 +1,42 @@
-{
-    "pets_available": [
-        {
-            "id": 0,
-            "pet": "None"
-        },
-        {
-            "id": 1,
-            "pet": "Dog"
-        },
-        {
-            "id": 2,
-            "pet": "Cat"
-        },
-        {
-            "id": 3,
-            "pet": "Fish"
-        },
-        {
-            "id": 4,
-            "pet": "Bird"
-        },
-        {
-            "id": 5,
-            "pet": "Rabbit"
-        },
-        {
-            "id": 6,
-            "pet": "Hamster"
-        },
-        {
-            "id": 7,
-            "pet": "Reptile"
-        },
-        {
-            "id": 8,
-            "pet": "Exotic Pet"
-        },
-        {
-            "id": 9,
-            "pet": "Other"
-        }
-    ]
-}
+[
+    {
+        "id": 0,
+        "label": "None"
+    },
+    {
+        "id": 1,
+        "label": "Dog"
+    },
+    {
+        "id": 2,
+        "label": "Cat"
+    },
+    {
+        "id": 3,
+        "label": "Fish"
+    },
+    {
+        "id": 4,
+        "label": "Bird"
+    },
+    {
+        "id": 5,
+        "label": "Rabbit"
+    },
+    {
+        "id": 6,
+        "label": "Hamster"
+    },
+    {
+        "id": 7,
+        "label": "Reptile"
+    },
+    {
+        "id": 8,
+        "label": "Exotic Pet"
+    },
+    {
+        "id": 9,
+        "label": "Other"
+    }
+]

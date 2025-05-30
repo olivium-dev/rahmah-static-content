@@ -1,188 +1,186 @@
-{
-    "movies_preferences": [
-        {
-            "id": 0,
-            "genre": "Action 🚀"
-        },
-        {
-            "id": 1,
-            "genre": "Comedy 😂"
-        },
-        {
-            "id": 2,
-            "genre": "Thriller 🔪"
-        },
-        {
-            "id": 3,
-            "genre": "Drama 🎭"
-        },
-        {
-            "id": 4,
-            "genre": "Sci-Fi 🚀"
-        },
-        {
-            "id": 5,
-            "genre": "Romance 💕"
-        },
-        {
-            "id": 6,
-            "genre": "Horror 👻"
-        },
-        {
-            "id": 7,
-            "genre": "Animated ❤️"
-        },
-        {
-            "id": 8,
-            "genre": "Spy 🕵️"
-        },
-        {
-            "id": 9,
-            "genre": "Adventure 📱"
-        },
-        {
-            "id": 10,
-            "genre": "Documentary 🎬"
-        },
-        {
-            "id": 11,
-            "genre": "Musical 🎵"
-        },
-        {
-            "id": 12,
-            "genre": "Fantasy ⭐"
-        },
-        {
-            "id": 13,
-            "genre": "Anime 🅾️"
-        },
-        {
-            "id": 14,
-            "genre": "Historical 📚"
-        },
-        {
-            "id": 15,
-            "genre": "War ⚔️"
-        },
-        {
-            "id": 16,
-            "genre": "Mystery 🔍"
-        },
-        {
-            "id": 17,
-            "genre": "Crime 🔫"
-        },
-        {
-            "id": 18,
-            "genre": "Family 👨‍👩‍👧‍👦"
-        },
-        {
-            "id": 19,
-            "genre": "Western 🤠"
-        },
-        {
-            "id": 20,
-            "genre": "Biographical 📖"
-        },
-        {
-            "id": 21,
-            "genre": "Courtroom ⚖️"
-        },
-        {
-            "id": 22,
-            "genre": "Sports ⚽"
-        },
-        {
-            "id": 23,
-            "genre": "Epic 👑"
-        },
-        {
-            "id": 24,
-            "genre": "Martial Arts 🥋"
-        },
-        {
-            "id": 25,
-            "genre": "K-Drama 🇰🇷"
-        },
-        {
-            "id": 26,
-            "genre": "Silent Films 🎬"
-        },
-        {
-            "id": 27,
-            "genre": "Film Noir 🎭"
-        },
-        {
-            "id": 28,
-            "genre": "Political 🏛️"
-        },
-        {
-            "id": 29,
-            "genre": "Satire 😊"
-        },
-        {
-            "id": 30,
-            "genre": "Coming of Age 📈"
-        },
-        {
-            "id": 31,
-            "genre": "Superhero 🦸"
-        },
-        {
-            "id": 32,
-            "genre": "Disaster 🌪️"
-        },
-        {
-            "id": 33,
-            "genre": "Noir 🎭"
-        },
-        {
-            "id": 34,
-            "genre": "Cyberpunk 🤖"
-        },
-        {
-            "id": 35,
-            "genre": "Steampunk 💨"
-        },
-        {
-            "id": 36,
-            "genre": "Time Travel ⏰"
-        },
-        {
-            "id": 37,
-            "genre": "Found Footage 📹"
-        },
-        {
-            "id": 38,
-            "genre": "Buddy Cop 👮‍♂️👮‍♀️"
-        },
-        {
-            "id": 39,
-            "genre": "Fantasy Adventure 🏰🗡️"
-        },
-        {
-            "id": 40,
-            "genre": "Bollywood 🇮🇳🎬"
-        },
-        {
-            "id": 41,
-            "genre": "Cult Classics 🎭👁️"
-        },
-        {
-            "id": 42,
-            "genre": "Mockumentary 🎬"
-        },
-        {
-            "id": 43,
-            "genre": "Slice of Life 🍕🎭"
-        },
-        {
-            "id": 44,
-            "genre": "Foreign Films 🌍🎬"
-        },
-        {
-            "id": 45,
-            "genre": "Nollywood 🇳🇬🎬"
-        }
-    ]
-}
+[
+    {
+        "id": 0,
+        "label": "Action 🚀"
+    },
+    {
+        "id": 1,
+        "label": "Comedy 😂"
+    },
+    {
+        "id": 2,
+        "label": "Thriller 🔪"
+    },
+    {
+        "id": 3,
+        "label": "Drama 🎭"
+    },
+    {
+        "id": 4,
+        "label": "Sci-Fi 🚀"
+    },
+    {
+        "id": 5,
+        "label": "Romance 💕"
+    },
+    {
+        "id": 6,
+        "label": "Horror 👻"
+    },
+    {
+        "id": 7,
+        "label": "Animated ❤️"
+    },
+    {
+        "id": 8,
+        "label": "Spy 🕵️"
+    },
+    {
+        "id": 9,
+        "label": "Adventure 📱"
+    },
+    {
+        "id": 10,
+        "label": "Documentary 🎬"
+    },
+    {
+        "id": 11,
+        "label": "Musical 🎵"
+    },
+    {
+        "id": 12,
+        "label": "Fantasy ⭐"
+    },
+    {
+        "id": 13,
+        "label": "Anime 🅾️"
+    },
+    {
+        "id": 14,
+        "label": "Historical 📚"
+    },
+    {
+        "id": 15,
+        "label": "War ⚔️"
+    },
+    {
+        "id": 16,
+        "label": "Mystery 🔍"
+    },
+    {
+        "id": 17,
+        "label": "Crime 🔫"
+    },
+    {
+        "id": 18,
+        "label": "Family 👨‍👩‍👧‍👦"
+    },
+    {
+        "id": 19,
+        "label": "Western 🤠"
+    },
+    {
+        "id": 20,
+        "label": "Biographical 📖"
+    },
+    {
+        "id": 21,
+        "label": "Courtroom ⚖️"
+    },
+    {
+        "id": 22,
+        "label": "Sports ⚽"
+    },
+    {
+        "id": 23,
+        "label": "Epic 👑"
+    },
+    {
+        "id": 24,
+        "label": "Martial Arts 🥋"
+    },
+    {
+        "id": 25,
+        "label": "K-Drama 🇰🇷"
+    },
+    {
+        "id": 26,
+        "label": "Silent Films 🎬"
+    },
+    {
+        "id": 27,
+        "label": "Film Noir 🎭"
+    },
+    {
+        "id": 28,
+        "label": "Political 🏛️"
+    },
+    {
+        "id": 29,
+        "label": "Satire 😊"
+    },
+    {
+        "id": 30,
+        "label": "Coming of Age 📈"
+    },
+    {
+        "id": 31,
+        "label": "Superhero 🦸"
+    },
+    {
+        "id": 32,
+        "label": "Disaster 🌪️"
+    },
+    {
+        "id": 33,
+        "label": "Noir 🎭"
+    },
+    {
+        "id": 34,
+        "label": "Cyberpunk 🤖"
+    },
+    {
+        "id": 35,
+        "label": "Steampunk 💨"
+    },
+    {
+        "id": 36,
+        "label": "Time Travel ⏰"
+    },
+    {
+        "id": 37,
+        "label": "Found Footage 📹"
+    },
+    {
+        "id": 38,
+        "label": "Buddy Cop 👮‍♂️👮‍♀️"
+    },
+    {
+        "id": 39,
+        "label": "Fantasy Adventure 🏰🗡️"
+    },
+    {
+        "id": 40,
+        "label": "Bollywood 🇮🇳🎬"
+    },
+    {
+        "id": 41,
+        "label": "Cult Classics 🎭👁️"
+    },
+    {
+        "id": 42,
+        "label": "Mockumentary 🎬"
+    },
+    {
+        "id": 43,
+        "label": "Slice of Life 🍕🎭"
+    },
+    {
+        "id": 44,
+        "label": "Foreign Films 🌍🎬"
+    },
+    {
+        "id": 45,
+        "label": "Nollywood 🇳🇬🎬"
+    }
+]
