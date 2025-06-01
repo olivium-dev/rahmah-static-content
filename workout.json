@@ -1,18 +1,18 @@
 [
     {
         "id": 0,
-        "label": "Everyday"
+        "label": "everyday"
     },
     {
         "id": 1,
-        "label": "Often"
+        "label": "often"
     },
     {
         "id": 2,
-        "label": "Sometimes"
+        "label": "sometimes"
     },
     {
         "id": 3,
-        "label": "Never"
+        "label": "never"
     }
 ]

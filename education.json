@@ -1,26 +1,26 @@
 [
     {
         "id": 0,
-        "type": "High School"
+        "type": "high school"
     },
     {
         "id": 1,
-        "type": "Bachelors"
+        "type": "bachelors"
     },
     {
         "id": 2,
-        "type": "Masters"
+        "type": "masters"
     },
     {
         "id": 3,
-        "type": "PhD"
+        "type": "phd"
     },
     {
         "id": 4,
-        "type": "Trade School"
+        "type": "trade school"
     },
     {
         "id": 5,
-        "type": "Other"
+        "type": "other"
     }
 ]

@@ -1,14 +1,14 @@
 [
     {
         "id": 0,
-        "type": "Wants Kids"
+        "type": "wants kids"
     },
     {
         "id": 1,
-        "type": "Doesn't Want Kids"
+        "type": "doesn't want kids"
     },
     {
         "id": 2,
-        "type": "Not Sure Yet"
+        "type": "not sure yet"
     }
 ]

@@ -1,22 +1,22 @@
 [
     {
         "id": 0,
-        "label": "Hijab"
+        "label": "hijab"
     },
     {
         "id": 1,
-        "label": "Jilbab"
+        "label": "jilbab"
     },
     {
         "id": 2,
-        "label": "Niqab"
+        "label": "niqab"
     },
     {
         "id": 3,
-        "label": "Modest"
+        "label": "modest"
     },
     {
         "id": 4,
-        "label": "No religious dress"
+        "label": "no religious dress"
     }
 ]

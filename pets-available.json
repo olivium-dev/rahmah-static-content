@@ -1,42 +1,42 @@
 [
     {
         "id": 0,
-        "label": "None"
+        "label": "none"
     },
     {
         "id": 1,
-        "label": "Dog"
+        "label": "dog"
     },
     {
         "id": 2,
-        "label": "Cat"
+        "label": "cat"
     },
     {
         "id": 3,
-        "label": "Fish"
+        "label": "fish"
     },
     {
         "id": 4,
-        "label": "Bird"
+        "label": "bird"
     },
     {
         "id": 5,
-        "label": "Rabbit"
+        "label": "rabbit"
     },
     {
         "id": 6,
-        "label": "Hamster"
+        "label": "hamster"
     },
     {
         "id": 7,
-        "label": "Reptile"
+        "label": "reptile"
     },
     {
         "id": 8,
-        "label": "Exotic Pet"
+        "label": "exotic pet"
     },
     {
         "id": 9,
-        "label": "Other"
+        "label": "other"
     }
 ]

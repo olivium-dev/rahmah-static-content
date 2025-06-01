@@ -1,26 +1,26 @@
 [
     {
         "id": 0,
-        "label": "Hopeful Romantic"
+        "label": "hopeful romantic"
     },
     {
         "id": 1,
-        "label": "Adventure Seeker"
+        "label": "adventure seeker"
     },
     {
         "id": 2,
-        "label": "Best Friend"
+        "label": "best friend"
     },
     {
         "id": 3,
-        "label": "Independent Spirit"
+        "label": "independent spirit"
     },
     {
         "id": 4,
-        "label": "Caregiver"
+        "label": "caregiver"
     },
     {
         "id": 5,
-        "label": "Spontaneous Adventurer"
+        "label": "spontaneous adventurer"
     }
 ]

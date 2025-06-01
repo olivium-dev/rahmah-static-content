@@ -1,186 +1,186 @@
 [
     {
         "id": 0,
-        "label": "Action 🚀"
+        "label": "action 🚀"
     },
     {
         "id": 1,
-        "label": "Comedy 😂"
+        "label": "comedy 😂"
     },
     {
         "id": 2,
-        "label": "Thriller 🔪"
+        "label": "thriller 🔪"
     },
     {
         "id": 3,
-        "label": "Drama 🎭"
+        "label": "drama 🎭"
     },
     {
         "id": 4,
-        "label": "Sci-Fi 🚀"
+        "label": "sci-fi 🚀"
     },
     {
         "id": 5,
-        "label": "Romance 💕"
+        "label": "romance 💕"
     },
     {
         "id": 6,
-        "label": "Horror 👻"
+        "label": "horror 👻"
     },
     {
         "id": 7,
-        "label": "Animated ❤️"
+        "label": "animated ❤️"
     },
     {
         "id": 8,
-        "label": "Spy 🕵️"
+        "label": "spy 🕵️"
     },
     {
         "id": 9,
-        "label": "Adventure 📱"
+        "label": "adventure 📱"
     },
     {
         "id": 10,
-        "label": "Documentary 🎬"
+        "label": "documentary 🎬"
     },
     {
         "id": 11,
-        "label": "Musical 🎵"
+        "label": "musical 🎵"
     },
     {
         "id": 12,
-        "label": "Fantasy ⭐"
+        "label": "fantasy ⭐"
     },
     {
         "id": 13,
-        "label": "Anime 🅾️"
+        "label": "anime 🅾️"
     },
     {
         "id": 14,
-        "label": "Historical 📚"
+        "label": "historical 📚"
     },
     {
         "id": 15,
-        "label": "War ⚔️"
+        "label": "war ⚔️"
     },
     {
         "id": 16,
-        "label": "Mystery 🔍"
+        "label": "mystery 🔍"
     },
     {
         "id": 17,
-        "label": "Crime 🔫"
+        "label": "crime 🔫"
     },
     {
         "id": 18,
-        "label": "Family 👨‍👩‍👧‍👦"
+        "label": "family 👨‍👩‍👧‍👦"
     },
     {
         "id": 19,
-        "label": "Western 🤠"
+        "label": "western 🤠"
     },
     {
         "id": 20,
-        "label": "Biographical 📖"
+        "label": "biographical 📖"
     },
     {
         "id": 21,
-        "label": "Courtroom ⚖️"
+        "label": "courtroom ⚖️"
     },
     {
         "id": 22,
-        "label": "Sports ⚽"
+        "label": "sports ⚽"
     },
     {
         "id": 23,
-        "label": "Epic 👑"
+        "label": "epic 👑"
     },
     {
         "id": 24,
-        "label": "Martial Arts 🥋"
+        "label": "martial arts 🥋"
     },
     {
         "id": 25,
-        "label": "K-Drama 🇰🇷"
+        "label": "k-drama 🇰🇷"
     },
     {
         "id": 26,
-        "label": "Silent Films 🎬"
+        "label": "silent films 🎬"
     },
     {
         "id": 27,
-        "label": "Film Noir 🎭"
+        "label": "film noir 🎭"
     },
     {
         "id": 28,
-        "label": "Political 🏛️"
+        "label": "political 🏛️"
     },
     {
         "id": 29,
-        "label": "Satire 😊"
+        "label": "satire 😊"
     },
     {
         "id": 30,
-        "label": "Coming of Age 📈"
+        "label": "coming of age 📈"
     },
     {
         "id": 31,
-        "label": "Superhero 🦸"
+        "label": "superhero 🦸"
     },
     {
         "id": 32,
-        "label": "Disaster 🌪️"
+        "label": "disaster 🌪️"
     },
     {
         "id": 33,
-        "label": "Noir 🎭"
+        "label": "noir 🎭"
     },
     {
         "id": 34,
-        "label": "Cyberpunk 🤖"
+        "label": "cyberpunk 🤖"
     },
     {
         "id": 35,
-        "label": "Steampunk 💨"
+        "label": "steampunk 💨"
     },
     {
         "id": 36,
-        "label": "Time Travel ⏰"
+        "label": "time travel ⏰"
     },
     {
         "id": 37,
-        "label": "Found Footage 📹"
+        "label": "found footage 📹"
     },
     {
         "id": 38,
-        "label": "Buddy Cop 👮‍♂️👮‍♀️"
+        "label": "buddy cop 👮‍♂️👮‍♀️"
     },
     {
         "id": 39,
-        "label": "Fantasy Adventure 🏰🗡️"
+        "label": "fantasy adventure 🏰🗡️"
     },
     {
         "id": 40,
-        "label": "Bollywood 🇮🇳🎬"
+        "label": "bollywood 🇮🇳🎬"
     },
     {
         "id": 41,
-        "label": "Cult Classics 🎭👁️"
+        "label": "cult classics 🎭👁️"
     },
     {
         "id": 42,
-        "label": "Mockumentary 🎬"
+        "label": "mockumentary 🎬"
     },
     {
         "id": 43,
-        "label": "Slice of Life 🍕🎭"
+        "label": "slice of life 🍕🎭"
     },
     {
         "id": 44,
-        "label": "Foreign Films 🌍🎬"
+        "label": "foreign films 🌍🎬"
     },
     {
         "id": 45,
-        "label": "Nollywood 🇳🇬🎬"
+        "label": "nollywood 🇳🇬🎬"
     }
 ]

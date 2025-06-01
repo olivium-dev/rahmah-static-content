@@ -1,202 +1,202 @@
 [
     {
         "id": 0,
-        "label": "Pop 🎵"
+        "label": "pop 🎵"
     },
     {
         "id": 1,
-        "label": "Rock 🎸"
+        "label": "rock 🎸"
     },
     {
         "id": 2,
-        "label": "R&B 🎶"
+        "label": "r&b 🎶"
     },
     {
         "id": 3,
-        "label": "Country 🤠"
+        "label": "country 🤠"
     },
     {
         "id": 4,
-        "label": "Jazz 🎺"
+        "label": "jazz 🎺"
     },
     {
         "id": 5,
-        "label": "Hip-Hop 🎤"
+        "label": "hip-hop 🎤"
     },
     {
         "id": 6,
-        "label": "Classical 🎻"
+        "label": "classical 🎻"
     },
     {
         "id": 7,
-        "label": "Electronic 🎧"
+        "label": "electronic 🎧"
     },
     {
         "id": 8,
-        "label": "Indie 🎵"
+        "label": "indie 🎵"
     },
     {
         "id": 9,
-        "label": "Reggae 🌴"
+        "label": "reggae 🌴"
     },
     {
         "id": 10,
-        "label": "Blues 🎸"
+        "label": "blues 🎸"
     },
     {
         "id": 11,
-        "label": "Metal 🤘"
+        "label": "metal 🤘"
     },
     {
         "id": 12,
-        "label": "Latin 🌶️"
+        "label": "latin 🌶️"
     },
     {
         "id": 13,
-        "label": "K-Pop 🇰🇷"
+        "label": "k-pop 🇰🇷"
     },
     {
         "id": 14,
-        "label": "Punk 🤘"
+        "label": "punk 🤘"
     },
     {
         "id": 15,
-        "label": "Alternative 🎵"
+        "label": "alternative 🎵"
     },
     {
         "id": 16,
-        "label": "Folk 🎵"
+        "label": "folk 🎵"
     },
     {
         "id": 17,
-        "label": "Funk 🎸"
+        "label": "funk 🎸"
     },
     {
         "id": 18,
-        "label": "World 🌍"
+        "label": "world 🌍"
     },
     {
         "id": 19,
-        "label": "EDM 🎧"
+        "label": "edm 🎧"
     },
     {
         "id": 20,
-        "label": "Rap 🎤"
+        "label": "rap 🎤"
     },
     {
         "id": 21,
-        "label": "Soul 🎵"
+        "label": "soul 🎵"
     },
     {
         "id": 22,
-        "label": "Opera 🎭"
+        "label": "opera 🎭"
     },
     {
         "id": 23,
-        "label": "Disco 🕺"
+        "label": "disco 🕺"
     },
     {
         "id": 24,
-        "label": "Ambient 🌌"
+        "label": "ambient 🌌"
     },
     {
         "id": 25,
-        "label": "Ska 🎺"
+        "label": "ska 🎺"
     },
     {
         "id": 26,
-        "label": "J-Pop 🇯🇵"
+        "label": "j-pop 🇯🇵"
     },
     {
         "id": 27,
-        "label": "Bollywood 🎬"
+        "label": "bollywood 🎬"
     },
     {
         "id": 28,
-        "label": "Gospel 🙏"
+        "label": "gospel 🙏"
     },
     {
         "id": 29,
-        "label": "House 🏠"
+        "label": "house 🏠"
     },
     {
         "id": 30,
-        "label": "New Age 🌟"
+        "label": "new age 🌟"
     },
     {
         "id": 31,
-        "label": "Trance 🌀"
+        "label": "trance 🌀"
     },
     {
         "id": 32,
-        "label": "Techno 🎵"
+        "label": "techno 🎵"
     },
     {
         "id": 33,
-        "label": "Salsa 🌶️"
+        "label": "salsa 🌶️"
     },
     {
         "id": 34,
-        "label": "Flamenco 🌶️"
+        "label": "flamenco 🌶️"
     },
     {
         "id": 35,
-        "label": "Swing 🎵"
+        "label": "swing 🎵"
     },
     {
         "id": 36,
-        "label": "Acoustic 🎸"
+        "label": "acoustic 🎸"
     },
     {
         "id": 37,
-        "label": "Synth-Pop 🎹"
+        "label": "synth-pop 🎹"
     },
     {
         "id": 38,
-        "label": "Choir 🎵"
+        "label": "choir 🎵"
     },
     {
         "id": 39,
-        "label": "Grunge 🎸"
+        "label": "grunge 🎸"
     },
     {
         "id": 40,
-        "label": "Chiptune 🎮"
+        "label": "chiptune 🎮"
     },
     {
         "id": 41,
-        "label": "Barbershop 🎤"
+        "label": "barbershop 🎤"
     },
     {
         "id": 42,
-        "label": "Chamber 🎻"
+        "label": "chamber 🎻"
     },
     {
         "id": 43,
-        "label": "Downtempo 📉"
+        "label": "downtempo 📉"
     },
     {
         "id": 44,
-        "label": "Psychedelic 🌈"
+        "label": "psychedelic 🌈"
     },
     {
         "id": 45,
-        "label": "Progressive 🎵"
+        "label": "progressive 🎵"
     },
     {
         "id": 46,
-        "label": "Experimental 🎵"
+        "label": "experimental 🎵"
     },
     {
         "id": 47,
-        "label": "Industrial 🏭"
+        "label": "industrial 🏭"
     },
     {
         "id": 48,
-        "label": "World Fusion 🌍"
+        "label": "world fusion 🌍"
     },
     {
         "id": 49,
-        "label": "Trip-Hop 🎧🎵"
+        "label": "trip-hop 🎧🎵"
     }
 ]

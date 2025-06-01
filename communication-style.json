@@ -1,34 +1,34 @@
 [
     {
         "id": 0,
-        "label": "Chatty Cathy"
+        "label": "chatty cathy"
     },
     {
         "id": 1,
-        "label": "Listener"
+        "label": "listener"
     },
     {
         "id": 2,
-        "label": "Joker"
+        "label": "joker"
     },
     {
         "id": 3,
-        "label": "Deep Thinker"
+        "label": "deep thinker"
     },
     {
         "id": 4,
-        "label": "Sarcastic Wit"
+        "label": "sarcastic wit"
     },
     {
         "id": 5,
-        "label": "Easygoing"
+        "label": "easygoing"
     },
     {
         "id": 6,
-        "label": "Straight Shooter"
+        "label": "straight shooter"
     },
     {
         "id": 7,
-        "label": "Storyteller"
+        "label": "storyteller"
     }
 ]

@@ -1,122 +1,122 @@
 [
     {
         "id": 0,
-        "label": "Adventure Travel 📱"
+        "label": "adventure travel 📱"
     },
     {
         "id": 1,
-        "label": "City Breaks 🏢"
+        "label": "city breaks 🏢"
     },
     {
         "id": 2,
-        "label": "Cultural Exploration 🏛️"
+        "label": "cultural exploration 🏛️"
     },
     {
         "id": 3,
-        "label": "Glamping ⛺"
+        "label": "glamping ⛺"
     },
     {
         "id": 4,
-        "label": "Beach Vacations 🏖️"
+        "label": "beach vacations 🏖️"
     },
     {
         "id": 5,
-        "label": "Nature Escapes 🌿"
+        "label": "nature escapes 🌿"
     },
     {
         "id": 6,
-        "label": "Relaxing Getaways 🏖️"
+        "label": "relaxing getaways 🏖️"
     },
     {
         "id": 7,
-        "label": "Road Trips 🚗"
+        "label": "road trips 🚗"
     },
     {
         "id": 8,
-        "label": "Food Tourism 🍕"
+        "label": "food tourism 🍕"
     },
     {
         "id": 9,
-        "label": "Backpacking 🎒"
+        "label": "backpacking 🎒"
     },
     {
         "id": 10,
-        "label": "Cruise Vacations ⛵"
+        "label": "cruise vacations ⛵"
     },
     {
         "id": 11,
-        "label": "Staycations 🏠"
+        "label": "staycations 🏠"
     },
     {
         "id": 12,
-        "label": "Skiing/Snowboarding 🎿"
+        "label": "skiing/snowboarding 🎿"
     },
     {
         "id": 13,
-        "label": "Wine Tours 🍷"
+        "label": "wine tours 🍷"
     },
     {
         "id": 14,
-        "label": "Wildlife Safaris 😊"
+        "label": "wildlife safaris 😊"
     },
     {
         "id": 15,
-        "label": "Art Galleries 🎨"
+        "label": "art galleries 🎨"
     },
     {
         "id": 16,
-        "label": "Historical Sites 👑"
+        "label": "historical sites 👑"
     },
     {
         "id": 17,
-        "label": "Eco-Tourism 🌿"
+        "label": "eco-tourism 🌿"
     },
     {
         "id": 18,
-        "label": "Music Festivals 🎵"
+        "label": "music festivals 🎵"
     },
     {
         "id": 19,
-        "label": "Culinary Tours 🍴"
+        "label": "culinary tours 🍴"
     },
     {
         "id": 20,
-        "label": "Yoga Retreats 🧘"
+        "label": "yoga retreats 🧘"
     },
     {
         "id": 21,
-        "label": "Group Tours 👥"
+        "label": "group tours 👥"
     },
     {
         "id": 22,
-        "label": "Remote Destinations 🏝️"
+        "label": "remote destinations 🏝️"
     },
     {
         "id": 23,
-        "label": "Island Hopping 🏝️"
+        "label": "island hopping 🏝️"
     },
     {
         "id": 24,
-        "label": "Train Journeys 🚂"
+        "label": "train journeys 🚂"
     },
     {
         "id": 25,
-        "label": "Volunteering Abroad 🌍"
+        "label": "volunteering abroad 🌍"
     },
     {
         "id": 26,
-        "label": "Solo Travel 🚶"
+        "label": "solo travel 🚶"
     },
     {
         "id": 27,
-        "label": "Spa Getaways 🧘"
+        "label": "spa getaways 🧘"
     },
     {
         "id": 28,
-        "label": "Desert Adventures 🌵"
+        "label": "desert adventures 🌵"
     },
     {
         "id": 29,
-        "label": "Mountain Retreats ⛰️"
+        "label": "mountain retreats ⛰️"
     }
 ]

@@ -1,170 +1,170 @@
 [
     {
         "id": 0,
-        "label": "Fiction 📖"
+        "label": "fiction 📖"
     },
     {
         "id": 1,
-        "label": "Non-Fiction 📚"
+        "label": "non-fiction 📚"
     },
     {
         "id": 2,
-        "label": "Sci-Fi 🚀"
+        "label": "sci-fi 🚀"
     },
     {
         "id": 3,
-        "label": "Romance 💕"
+        "label": "romance 💕"
     },
     {
         "id": 4,
-        "label": "Plays 🎭"
+        "label": "plays 🎭"
     },
     {
         "id": 5,
-        "label": "Comics 📚📚"
+        "label": "comics 📚📚"
     },
     {
         "id": 6,
-        "label": "Science 🔬"
+        "label": "science 🔬"
     },
     {
         "id": 7,
-        "label": "Historical Fiction 👑"
+        "label": "historical fiction 👑"
     },
     {
         "id": 8,
-        "label": "Biography 📖"
+        "label": "biography 📖"
     },
     {
         "id": 9,
-        "label": "Self-Help 📝"
+        "label": "self-help 📝"
     },
     {
         "id": 10,
-        "label": "Poetry 📝"
+        "label": "poetry 📝"
     },
     {
         "id": 11,
-        "label": "Essays 📝"
+        "label": "essays 📝"
     },
     {
         "id": 12,
-        "label": "Fantasy 📖"
+        "label": "fantasy 📖"
     },
     {
         "id": 13,
-        "label": "Young Adult 📚"
+        "label": "young adult 📚"
     },
     {
         "id": 14,
-        "label": "Classic Literature 📖"
+        "label": "classic literature 📖"
     },
     {
         "id": 15,
-        "label": "Mystery/Thriller 🔍"
+        "label": "mystery/thriller 🔍"
     },
     {
         "id": 16,
-        "label": "Paranormal 👻"
+        "label": "paranormal 👻"
     },
     {
         "id": 17,
-        "label": "Travel ✈️"
+        "label": "travel ✈️"
     },
     {
         "id": 18,
-        "label": "Business 📊"
+        "label": "business 📊"
     },
     {
         "id": 19,
-        "label": "Horror 👻"
+        "label": "horror 👻"
     },
     {
         "id": 20,
-        "label": "Philosophy 🧠"
+        "label": "philosophy 🧠"
     },
     {
         "id": 21,
-        "label": "Humor 😊"
+        "label": "humor 😊"
     },
     {
         "id": 22,
-        "label": "Drama 🎭"
+        "label": "drama 🎭"
     },
     {
         "id": 23,
-        "label": "Space Opera 🚀📚"
+        "label": "space opera 🚀📚"
     },
     {
         "id": 24,
-        "label": "Cyberpunk 🤖"
+        "label": "cyberpunk 🤖"
     },
     {
         "id": 25,
-        "label": "Urban Fantasy 🏙️⭐"
+        "label": "urban fantasy 🏙️⭐"
     },
     {
         "id": 26,
-        "label": "Graphic Novels 📚📖"
+        "label": "graphic novels 📚📖"
     },
     {
         "id": 27,
-        "label": "Travelogues 🌍📚"
+        "label": "travelogues 🌍📚"
     },
     {
         "id": 28,
-        "label": "True Crime 🔍"
+        "label": "true crime 🔍"
     },
     {
         "id": 29,
-        "label": "Autobiography 📚📖"
+        "label": "autobiography 📚📖"
     },
     {
         "id": 30,
-        "label": "Religious Texts 📚🙏"
+        "label": "religious texts 📚🙏"
     },
     {
         "id": 31,
-        "label": "Anthologies 📖📚"
+        "label": "anthologies 📖📚"
     },
     {
         "id": 32,
-        "label": "Memoir 📝"
+        "label": "memoir 📝"
     },
     {
         "id": 33,
-        "label": "Art & Photography 📷📚"
+        "label": "art & photography 📷📚"
     },
     {
         "id": 34,
-        "label": "Dystopian 🏢"
+        "label": "dystopian 🏢"
     },
     {
         "id": 35,
-        "label": "Science Fiction Fantasy 🚀📚"
+        "label": "science fiction fantasy 🚀📚"
     },
     {
         "id": 36,
-        "label": "Satire 😏"
+        "label": "satire 😏"
     },
     {
         "id": 37,
-        "label": "Craft & Hobbies 🔨🎨"
+        "label": "craft & hobbies 🔨🎨"
     },
     {
         "id": 38,
-        "label": "Cookbooks 🍳"
+        "label": "cookbooks 🍳"
     },
     {
         "id": 39,
-        "label": "Alternate History 🌍"
+        "label": "alternate history 🌍"
     },
     {
         "id": 40,
-        "label": "Short Stories 📚📝"
+        "label": "short stories 📚📝"
     },
     {
         "id": 41,
-        "label": "Children's Books 📖👶"
+        "label": "children's books 📖👶"
     }
 ]

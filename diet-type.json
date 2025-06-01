@@ -1,50 +1,50 @@
 [
     {
         "id": 0,
-        "label": "Vegan"
+        "label": "vegan"
     },
     {
         "id": 1,
-        "label": "Vegetarian"
+        "label": "vegetarian"
     },
     {
         "id": 2,
-        "label": "Keto"
+        "label": "keto"
     },
     {
         "id": 3,
-        "label": "Omnivore"
+        "label": "omnivore"
     },
     {
         "id": 4,
-        "label": "Pescetarian"
+        "label": "pescetarian"
     },
     {
         "id": 5,
-        "label": "Plant-Based"
+        "label": "plant-based"
     },
     {
         "id": 6,
-        "label": "Halal"
+        "label": "halal"
     },
     {
         "id": 7,
-        "label": "Kosher"
+        "label": "kosher"
     },
     {
         "id": 8,
-        "label": "Gluten-Free"
+        "label": "gluten-free"
     },
     {
         "id": 9,
-        "label": "Dairy-Free"
+        "label": "dairy-free"
     },
     {
         "id": 10,
-        "label": "Raw Food"
+        "label": "raw food"
     },
     {
         "id": 11,
-        "label": "Other"
+        "label": "other"
     }
 ]

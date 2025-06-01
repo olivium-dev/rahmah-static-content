@@ -1,50 +1,50 @@
 [
     {
         "id": 0,
-        "label": "Aries"
+        "label": "aries"
     },
     {
         "id": 1,
-        "label": "Taurus"
+        "label": "taurus"
     },
     {
         "id": 2,
-        "label": "Gemini"
+        "label": "gemini"
     },
     {
         "id": 3,
-        "label": "Cancer"
+        "label": "cancer"
     },
     {
         "id": 4,
-        "label": "Leo"
+        "label": "leo"
     },
     {
         "id": 5,
-        "label": "Virgo"
+        "label": "virgo"
     },
     {
         "id": 6,
-        "label": "Libra"
+        "label": "libra"
     },
     {
         "id": 7,
-        "label": "Scorpio"
+        "label": "scorpio"
     },
     {
         "id": 8,
-        "label": "Sagittarius"
+        "label": "sagittarius"
     },
     {
         "id": 9,
-        "label": "Capricorn"
+        "label": "capricorn"
     },
     {
         "id": 10,
-        "label": "Aquarius"
+        "label": "aquarius"
     },
     {
         "id": 11,
-        "label": "Pisces"
+        "label": "pisces"
     }
 ]
