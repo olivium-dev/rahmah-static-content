@@ -1,14 +1,14 @@
 [
     {
-        "id": 0,
+        "id": 26,
         "label": "active on all"
     },
     {
-        "id": 1,
+        "id": 27,
         "label": "active on some"
     },
     {
-        "id": 2,
+        "id": 28,
         "label": "minimal social media presence"
     }
 ]
