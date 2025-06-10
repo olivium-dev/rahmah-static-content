@@ -1,0 +1,26 @@
+[
+    {
+        "id": 12,
+        "label": "SMA"
+    },
+    {
+        "id": 13,
+        "label": "sarjana"
+    },
+    {
+        "id": 14,
+        "label": "magister"
+    },
+    {
+        "id": 15,
+        "label": "doktor"
+    },
+    {
+        "id": 16,
+        "label": "sekolah kejuruan"
+    },
+    {
+        "id": 17,
+        "label": "lainnya"
+    }
+]

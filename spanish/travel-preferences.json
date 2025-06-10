@@ -1,0 +1,122 @@
+[
+    {
+        "id": 0,
+        "label": "viaje de aventura 📱"
+    },
+    {
+        "id": 1,
+        "label": "escapadas urbanas 🏢"
+    },
+    {
+        "id": 2,
+        "label": "exploración cultural 🏛️"
+    },
+    {
+        "id": 3,
+        "label": "glamping ⛺"
+    },
+    {
+        "id": 4,
+        "label": "vacaciones en la playa 🏖️"
+    },
+    {
+        "id": 5,
+        "label": "escapadas a la naturaleza 🌿"
+    },
+    {
+        "id": 6,
+        "label": "escapadas relajantes 🏖️"
+    },
+    {
+        "id": 7,
+        "label": "viajes por carretera 🚗"
+    },
+    {
+        "id": 8,
+        "label": "turismo gastronómico 🍕"
+    },
+    {
+        "id": 9,
+        "label": "mochilero 🎒"
+    },
+    {
+        "id": 10,
+        "label": "vacaciones en crucero ⛵"
+    },
+    {
+        "id": 11,
+        "label": "vacaciones en casa 🏠"
+    },
+    {
+        "id": 12,
+        "label": "esquí/snowboard 🎿"
+    },
+    {
+        "id": 13,
+        "label": "tours de vino 🍷"
+    },
+    {
+        "id": 14,
+        "label": "safaris de vida silvestre 😊"
+    },
+    {
+        "id": 15,
+        "label": "galerías de arte 🎨"
+    },
+    {
+        "id": 16,
+        "label": "sitios históricos 👑"
+    },
+    {
+        "id": 17,
+        "label": "ecoturismo 🌿"
+    },
+    {
+        "id": 18,
+        "label": "festivales de música 🎵"
+    },
+    {
+        "id": 19,
+        "label": "tours culinarios 🍴"
+    },
+    {
+        "id": 20,
+        "label": "retiros de yoga 🧘"
+    },
+    {
+        "id": 21,
+        "label": "tours grupales 👥"
+    },
+    {
+        "id": 22,
+        "label": "destinos remotos 🏝️"
+    },
+    {
+        "id": 23,
+        "label": "salto de islas 🏝️"
+    },
+    {
+        "id": 24,
+        "label": "viajes en tren 🚂"
+    },
+    {
+        "id": 25,
+        "label": "voluntariado en el extranjero 🌍"
+    },
+    {
+        "id": 26,
+        "label": "viaje solo 🚶"
+    },
+    {
+        "id": 27,
+        "label": "escapadas de spa 🧘"
+    },
+    {
+        "id": 28,
+        "label": "aventuras en el desierto 🌵"
+    },
+    {
+        "id": 29,
+        "label": "retiros de montaña ⛰️"
+    }
+]

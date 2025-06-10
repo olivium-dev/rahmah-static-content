@@ -1,0 +1,122 @@
+[
+    {
+        "id": 0,
+        "label": "hidup sehat"
+    },
+    {
+        "id": 1,
+        "label": "kebugaran & gym"
+    },
+    {
+        "id": 2,
+        "label": "yoga & meditasi"
+    },
+    {
+        "id": 3,
+        "label": "vegan / vegetarian"
+    },
+    {
+        "id": 4,
+        "label": "penggemar teknologi"
+    },
+    {
+        "id": 5,
+        "label": "minimalisme"
+    },
+    {
+        "id": 6,
+        "label": "spiritual / religius"
+    },
+    {
+        "id": 7,
+        "label": "pecinta alam & outdoor"
+    },
+    {
+        "id": 8,
+        "label": "pecinta hewan"
+    },
+    {
+        "id": 9,
+        "label": "fashion & style"
+    },
+    {
+        "id": 10,
+        "label": "hidup mewah"
+    },
+    {
+        "id": 11,
+        "label": "hidup hemat"
+    },
+    {
+        "id": 12,
+        "label": "pecinta traveling"
+    },
+    {
+        "id": 13,
+        "label": "nomaden digital"
+    },
+    {
+        "id": 14,
+        "label": "berjiwa wirausaha"
+    },
+    {
+        "id": 15,
+        "label": "kutu buku"
+    },
+    {
+        "id": 16,
+        "label": "pecinta kopi"
+    },
+    {
+        "id": 17,
+        "label": "burung malam"
+    },
+    {
+        "id": 18,
+        "label": "bangun pagi"
+    },
+    {
+        "id": 19,
+        "label": "kupu-kupu sosial"
+    },
+    {
+        "id": 20,
+        "label": "orang rumah / penyuka di rumah"
+    },
+    {
+        "id": 21,
+        "label": "kreatif / artistik"
+    },
+    {
+        "id": 22,
+        "label": "petualang"
+    },
+    {
+        "id": 23,
+        "label": "kesadaran diri / perawatan diri"
+    },
+    {
+        "id": 24,
+        "label": "ramah lingkungan"
+    },
+    {
+        "id": 25,
+        "label": "pemain games"
+    },
+    {
+        "id": 26,
+        "label": "pecinta kuliner"
+    },
+    {
+        "id": 27,
+        "label": "pecandu kerja"
+    },
+    {
+        "id": 28,
+        "label": "fokus parenting"
+    },
+    {
+        "id": 29,
+        "label": "relawan / komunitas"
+    }
+]
