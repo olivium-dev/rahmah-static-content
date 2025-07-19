@@ -1,0 +1,50 @@
+[
+    {
+        "id": 0,
+        "label": "Aries"
+    },
+    {
+        "id": 1,
+        "label": "Taurus"
+    },
+    {
+        "id": 2,
+        "label": "Gemini"
+    },
+    {
+        "id": 3,
+        "label": "Cancer"
+    },
+    {
+        "id": 4,
+        "label": "Leo"
+    },
+    {
+        "id": 5,
+        "label": "Virgo"
+    },
+    {
+        "id": 6,
+        "label": "Libra"
+    },
+    {
+        "id": 7,
+        "label": "Scorpio"
+    },
+    {
+        "id": 8,
+        "label": "Sagittarius"
+    },
+    {
+        "id": 9,
+        "label": "Capricorn"
+    },
+    {
+        "id": 10,
+        "label": "Aquarius"
+    },
+    {
+        "id": 11,
+        "label": "Pisces"
+    }
+]

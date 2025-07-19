@@ -1,0 +1,50 @@
+[
+    {
+        "id": 4,
+        "label": "végétalien"
+    },
+    {
+        "id": 5,
+        "label": "végétarien"
+    },
+    {
+        "id": 6,
+        "label": "keto"
+    },
+    {
+        "id": 7,
+        "label": "omnivore"
+    },
+    {
+        "id": 8,
+        "label": "pescetarien"
+    },
+    {
+        "id": 9,
+        "label": "à base de plantes"
+    },
+    {
+        "id": 10,
+        "label": "halal"
+    },
+    {
+        "id": 11,
+        "label": "casher"
+    },
+    {
+        "id": 12,
+        "label": "sans gluten"
+    },
+    {
+        "id": 13,
+        "label": "sans lactose"
+    },
+    {
+        "id": 14,
+        "label": "alimentation crue"
+    },
+    {
+        "id": 15,
+        "label": "autre"
+    }
+]
