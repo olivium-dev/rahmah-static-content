@@ -1,0 +1,18 @@
+[
+    {
+        "id": 0,
+        "label": "tous les jours"
+    },
+    {
+        "id": 1,
+        "label": "souvent"
+    },
+    {
+        "id": 2,
+        "label": "parfois"
+    },
+    {
+        "id": 3,
+        "label": "jamais"
+    }
+]

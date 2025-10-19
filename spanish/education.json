@@ -1,0 +1,26 @@
+[
+    {
+        "id": 12,
+        "label": "bachillerato"
+    },
+    {
+        "id": 13,
+        "label": "licenciatura"
+    },
+    {
+        "id": 14,
+        "label": "maestría"
+    },
+    {
+        "id": 15,
+        "label": "doctorado"
+    },
+    {
+        "id": 16,
+        "label": "escuela técnica"
+    },
+    {
+        "id": 17,
+        "label": "otro"
+    }
+]

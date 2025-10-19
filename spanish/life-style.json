@@ -1,0 +1,122 @@
+[
+    {
+        "id": 0,
+        "label": "vida saludable"
+    },
+    {
+        "id": 1,
+        "label": "fitness y gimnasio"
+    },
+    {
+        "id": 2,
+        "label": "yoga y meditación"
+    },
+    {
+        "id": 3,
+        "label": "vegano / vegetariano"
+    },
+    {
+        "id": 4,
+        "label": "entusiasta de la tecnología"
+    },
+    {
+        "id": 5,
+        "label": "minimalismo"
+    },
+    {
+        "id": 6,
+        "label": "espiritual / religioso"
+    },
+    {
+        "id": 7,
+        "label": "amante de la naturaleza y al aire libre"
+    },
+    {
+        "id": 8,
+        "label": "amante de las mascotas"
+    },
+    {
+        "id": 9,
+        "label": "moda y estilo"
+    },
+    {
+        "id": 10,
+        "label": "vida de lujo"
+    },
+    {
+        "id": 11,
+        "label": "vida con presupuesto"
+    },
+    {
+        "id": 12,
+        "label": "adicto a los viajes"
+    },
+    {
+        "id": 13,
+        "label": "nómada digital"
+    },
+    {
+        "id": 14,
+        "label": "empresarial"
+    },
+    {
+        "id": 15,
+        "label": "ratón de biblioteca"
+    },
+    {
+        "id": 16,
+        "label": "amante del café"
+    },
+    {
+        "id": 17,
+        "label": "búho nocturno"
+    },
+    {
+        "id": 18,
+        "label": "madrugador"
+    },
+    {
+        "id": 19,
+        "label": "mariposa social"
+    },
+    {
+        "id": 20,
+        "label": "hogareño"
+    },
+    {
+        "id": 21,
+        "label": "creativo / artístico"
+    },
+    {
+        "id": 22,
+        "label": "aventurero"
+    },
+    {
+        "id": 23,
+        "label": "atención plena / autocuidado"
+    },
+    {
+        "id": 24,
+        "label": "ecológico"
+    },
+    {
+        "id": 25,
+        "label": "gamer"
+    },
+    {
+        "id": 26,
+        "label": "foodie"
+    },
+    {
+        "id": 27,
+        "label": "adicto al trabajo"
+    },
+    {
+        "id": 28,
+        "label": "enfocado en la paternidad"
+    },
+    {
+        "id": 29,
+        "label": "voluntariado / servicio comunitario"
+    }
+]
