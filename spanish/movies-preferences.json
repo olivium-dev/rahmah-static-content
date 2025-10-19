@@ -1,0 +1,186 @@
+[
+    {
+        "id": 0,
+        "label": "acción 🚀"
+    },
+    {
+        "id": 1,
+        "label": "comedia 😂"
+    },
+    {
+        "id": 2,
+        "label": "thriller 🔪"
+    },
+    {
+        "id": 3,
+        "label": "drama 🎭"
+    },
+    {
+        "id": 4,
+        "label": "ciencia ficción 🚀"
+    },
+    {
+        "id": 5,
+        "label": "romance 💕"
+    },
+    {
+        "id": 6,
+        "label": "terror 👻"
+    },
+    {
+        "id": 7,
+        "label": "animación ❤️"
+    },
+    {
+        "id": 8,
+        "label": "espionaje 🕵️"
+    },
+    {
+        "id": 9,
+        "label": "aventura 📱"
+    },
+    {
+        "id": 10,
+        "label": "documental 🎬"
+    },
+    {
+        "id": 11,
+        "label": "musical 🎵"
+    },
+    {
+        "id": 12,
+        "label": "fantasía ⭐"
+    },
+    {
+        "id": 13,
+        "label": "anime 🅾️"
+    },
+    {
+        "id": 14,
+        "label": "histórico 📚"
+    },
+    {
+        "id": 15,
+        "label": "guerra ⚔️"
+    },
+    {
+        "id": 16,
+        "label": "misterio 🔍"
+    },
+    {
+        "id": 17,
+        "label": "crimen 🔫"
+    },
+    {
+        "id": 18,
+        "label": "familiar 👨‍👩‍👧‍👦"
+    },
+    {
+        "id": 19,
+        "label": "western 🤠"
+    },
+    {
+        "id": 20,
+        "label": "biográfico 📖"
+    },
+    {
+        "id": 21,
+        "label": "tribunal ⚖️"
+    },
+    {
+        "id": 22,
+        "label": "deportes ⚽"
+    },
+    {
+        "id": 23,
+        "label": "épico 👑"
+    },
+    {
+        "id": 24,
+        "label": "artes marciales 🥋"
+    },
+    {
+        "id": 25,
+        "label": "k-drama 🇰🇷"
+    },
+    {
+        "id": 26,
+        "label": "películas mudas 🎬"
+    },
+    {
+        "id": 27,
+        "label": "cine negro 🎭"
+    },
+    {
+        "id": 28,
+        "label": "político 🏛️"
+    },
+    {
+        "id": 29,
+        "label": "sátira 😊"
+    },
+    {
+        "id": 30,
+        "label": "mayoría de edad 📈"
+    },
+    {
+        "id": 31,
+        "label": "superhéroes 🦸"
+    },
+    {
+        "id": 32,
+        "label": "catástrofe 🌪️"
+    },
+    {
+        "id": 33,
+        "label": "negro 🎭"
+    },
+    {
+        "id": 34,
+        "label": "cyberpunk 🤖"
+    },
+    {
+        "id": 35,
+        "label": "steampunk 💨"
+    },
+    {
+        "id": 36,
+        "label": "viaje en el tiempo ⏰"
+    },
+    {
+        "id": 37,
+        "label": "metraje encontrado 📹"
+    },
+    {
+        "id": 38,
+        "label": "policías compañeros 👮‍♂️👮‍♀️"
+    },
+    {
+        "id": 39,
+        "label": "aventura fantástica 🏰🗡️"
+    },
+    {
+        "id": 40,
+        "label": "bollywood 🇮🇳🎬"
+    },
+    {
+        "id": 41,
+        "label": "clásicos de culto 🎭👁️"
+    },
+    {
+        "id": 42,
+        "label": "falso documental 🎬"
+    },
+    {
+        "id": 43,
+        "label": "slice of life 🍕🎭"
+    },
+    {
+        "id": 44,
+        "label": "películas extranjeras 🌍🎬"
+    },
+    {
+        "id": 45,
+        "label": "nollywood 🇳🇬🎬"
+    }
+]

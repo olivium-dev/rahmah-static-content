@@ -1,0 +1,50 @@
+[
+    {
+        "id": 4,
+        "label": "bebas produk hewani"
+    },
+    {
+        "id": 5,
+        "label": "tanpa daging"
+    },
+    {
+        "id": 6,
+        "label": "keto"
+    },
+    {
+        "id": 7,
+        "label": "omnivora"
+    },
+    {
+        "id": 8,
+        "label": "makan ikan tapi tidak daging merah"
+    },
+    {
+        "id": 9,
+        "label": "berbasis tumbuhan"
+    },
+    {
+        "id": 10,
+        "label": "halal"
+    },
+    {
+        "id": 11,
+        "label": "kosher"
+    },
+    {
+        "id": 12,
+        "label": "bebas gluten"
+    },
+    {
+        "id": 13,
+        "label": "bebas susu"
+    },
+    {
+        "id": 14,
+        "label": "makanan mentah"
+    },
+    {
+        "id": 15,
+        "label": "lainnya"
+    }
+]

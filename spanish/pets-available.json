@@ -1,0 +1,42 @@
+[
+    {
+        "id": 16,
+        "label": "ninguna"
+    },
+    {
+        "id": 17,
+        "label": "perro"
+    },
+    {
+        "id": 18,
+        "label": "gato"
+    },
+    {
+        "id": 19,
+        "label": "pez"
+    },
+    {
+        "id": 20,
+        "label": "pájaro"
+    },
+    {
+        "id": 21,
+        "label": "conejo"
+    },
+    {
+        "id": 22,
+        "label": "hámster"
+    },
+    {
+        "id": 23,
+        "label": "reptil"
+    },
+    {
+        "id": 24,
+        "label": "mascota exótica"
+    },
+    {
+        "id": 25,
+        "label": "otra"
+    }
+]
