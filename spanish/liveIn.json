@@ -1,802 +1,202 @@
 [
-    {
-        "id": 0,
-        "label": "🇦🇫 Afganistán"
-    },
-    {
-        "id": 1,
-        "label": "🇦🇱 Albania"
-    },
-    {
-        "id": 2,
-        "label": "🇩🇿 Argelia"
-    },
-    {
-        "id": 3,
-        "label": "🇦🇸 Samoa Americana"
-    },
-    {
-        "id": 4,
-        "label": "🇦🇩 Andorra"
-    },
-    {
-        "id": 5,
-        "label": "🇦🇴 Angola"
-    },
-    {
-        "id": 6,
-        "label": "🇦🇮 Anguila"
-    },
-    {
-        "id": 7,
-        "label": "🇦🇶 Antártida"
-    },
-    {
-        "id": 8,
-        "label": "🇦🇬 Antigua y Barbuda"
-    },
-    {
-        "id": 9,
-        "label": "🇦🇷 Argentina"
-    },
-    {
-        "id": 10,
-        "label": "🇦🇲 Armenia"
-    },
-    {
-        "id": 11,
-        "label": "🇦🇼 Aruba"
-    },
-    {
-        "id": 12,
-        "label": "🇦🇺 Australia"
-    },
-    {
-        "id": 13,
-        "label": "🇦🇹 Austria"
-    },
-    {
-        "id": 14,
-        "label": "🇦🇿 Azerbaiyán"
-    },
-    {
-        "id": 15,
-        "label": "🇧🇸 Bahamas"
-    },
-    {
-        "id": 16,
-        "label": "🇧🇭 Baréin"
-    },
-    {
-        "id": 17,
-        "label": "🇧🇩 Bangladés"
-    },
-    {
-        "id": 18,
-        "label": "🇧🇧 Barbados"
-    },
-    {
-        "id": 19,
-        "label": "🇧🇾 Bielorrusia"
-    },
-    {
-        "id": 20,
-        "label": "🇧🇪 Bélgica"
-    },
-    {
-        "id": 21,
-        "label": "🇧🇿 Belice"
-    },
-    {
-        "id": 22,
-        "label": "🇧🇯 Benín"
-    },
-    {
-        "id": 23,
-        "label": "🇧🇹 Bután"
-    },
-    {
-        "id": 24,
-        "label": "🇧🇴 Bolivia"
-    },
-    {
-        "id": 25,
-        "label": "🇧🇦 Bosnia y Herzegovina"
-    },
-    {
-        "id": 26,
-        "label": "🇧🇼 Botsuana"
-    },
-    {
-        "id": 27,
-        "label": "🇧🇷 Brasil"
-    },
-    {
-        "id": 28,
-        "label": "🇧🇳 Brunéi"
-    },
-    {
-        "id": 29,
-        "label": "🇧🇬 Bulgaria"
-    },
-    {
-        "id": 30,
-        "label": "🇧🇫 Burkina Faso"
-    },
-    {
-        "id": 31,
-        "label": "🇧🇮 Burundi"
-    },
-    {
-        "id": 32,
-        "label": "🇨🇻 Cabo Verde"
-    },
-    {
-        "id": 33,
-        "label": "🇰🇭 Camboya"
-    },
-    {
-        "id": 34,
-        "label": "🇨🇲 Camerún"
-    },
-    {
-        "id": 35,
-        "label": "🇨🇦 Canadá"
-    },
-    {
-        "id": 36,
-        "label": "🇨🇫 República Centroafricana"
-    },
-    {
-        "id": 37,
-        "label": "🇹🇩 Chad"
-    },
-    {
-        "id": 38,
-        "label": "🇨🇱 Chile"
-    },
-    {
-        "id": 39,
-        "label": "🇨🇳 China"
-    },
-    {
-        "id": 40,
-        "label": "🇨🇴 Colombia"
-    },
-    {
-        "id": 41,
-        "label": "🇰🇲 Comoras"
-    },
-    {
-        "id": 42,
-        "label": "🇨🇩 República Democrática del Congo"
-    },
-    {
-        "id": 43,
-        "label": "🇨🇬 República del Congo"
-    },
-    {
-        "id": 44,
-        "label": "🇨🇷 Costa Rica"
-    },
-    {
-        "id": 45,
-        "label": "🇨🇮 Costa de Marfil"
-    },
-    {
-        "id": 46,
-        "label": "🇭🇷 Croacia"
-    },
-    {
-        "id": 47,
-        "label": "🇨🇺 Cuba"
-    },
-    {
-        "id": 48,
-        "label": "🇨🇾 Chipre"
-    },
-    {
-        "id": 49,
-        "label": "🇨🇿 República Checa"
-    },
-    {
-        "id": 50,
-        "label": "🇩🇰 Dinamarca"
-    },
-    {
-        "id": 51,
-        "label": "🇩🇯 Yibuti"
-    },
-    {
-        "id": 52,
-        "label": "🇩🇲 Dominica"
-    },
-    {
-        "id": 53,
-        "label": "🇩🇴 República Dominicana"
-    },
-    {
-        "id": 54,
-        "label": "🇪🇨 Ecuador"
-    },
-    {
-        "id": 55,
-        "label": "🇪🇬 Egipto"
-    },
-    {
-        "id": 56,
-        "label": "🇸🇻 El Salvador"
-    },
-    {
-        "id": 57,
-        "label": "🇬🇶 Guinea Ecuatorial"
-    },
-    {
-        "id": 58,
-        "label": "🇪🇷 Eritrea"
-    },
-    {
-        "id": 59,
-        "label": "🇪🇪 Estonia"
-    },
-    {
-        "id": 60,
-        "label": "🇸🇿 Esuatini"
-    },
-    {
-        "id": 61,
-        "label": "🇪🇹 Etiopía"
-    },
-    {
-        "id": 62,
-        "label": "🇫🇯 Fiyi"
-    },
-    {
-        "id": 63,
-        "label": "🇫🇮 Finlandia"
-    },
-    {
-        "id": 64,
-        "label": "🇫🇷 Francia"
-    },
-    {
-        "id": 65,
-        "label": "🇬🇦 Gabón"
-    },
-    {
-        "id": 66,
-        "label": "🇬🇲 Gambia"
-    },
-    {
-        "id": 67,
-        "label": "🇬🇪 Georgia"
-    },
-    {
-        "id": 68,
-        "label": "🇩🇪 Alemania"
-    },
-    {
-        "id": 69,
-        "label": "🇬🇭 Ghana"
-    },
-    {
-        "id": 70,
-        "label": "🇬🇷 Grecia"
-    },
-    {
-        "id": 71,
-        "label": "🇬🇩 Granada"
-    },
-    {
-        "id": 72,
-        "label": "🇬🇹 Guatemala"
-    },
-    {
-        "id": 73,
-        "label": "🇬🇳 Guinea"
-    },
-    {
-        "id": 74,
-        "label": "🇬🇼 Guinea-Bisáu"
-    },
-    {
-        "id": 75,
-        "label": "🇬🇾 Guyana"
-    },
-    {
-        "id": 76,
-        "label": "🇭🇹 Haití"
-    },
-    {
-        "id": 77,
-        "label": "🇭🇳 Honduras"
-    },
-    {
-        "id": 78,
-        "label": "🇭🇺 Hungría"
-    },
-    {
-        "id": 79,
-        "label": "🇮🇸 Islandia"
-    },
-    {
-        "id": 80,
-        "label": "🇮🇳 India"
-    },
-    {
-        "id": 81,
-        "label": "🇮🇩 Indonesia"
-    },
-    {
-        "id": 82,
-        "label": "🇮🇷 Irán"
-    },
-    {
-        "id": 83,
-        "label": "🇮🇶 Irak"
-    },
-    {
-        "id": 84,
-        "label": "🇮🇪 Irlanda"
-    },
-    {
-        "id": 85,
-        "label": "🇵🇸 Palestina"
-    },
-    {
-        "id": 86,
-        "label": "🇮🇹 Italia"
-    },
-    {
-        "id": 87,
-        "label": "🇯🇲 Jamaica"
-    },
-    {
-        "id": 88,
-        "label": "🇯🇵 Japón"
-    },
-    {
-        "id": 89,
-        "label": "🇯🇴 Jordania"
-    },
-    {
-        "id": 90,
-        "label": "🇰🇿 Kazajistán"
-    },
-    {
-        "id": 91,
-        "label": "🇰🇪 Kenia"
-    },
-    {
-        "id": 92,
-        "label": "🇰🇮 Kiribati"
-    },
-    {
-        "id": 93,
-        "label": "🇰🇵 Corea del Norte"
-    },
-    {
-        "id": 94,
-        "label": "🇰🇷 Corea del Sur"
-    },
-    {
-        "id": 95,
-        "label": "🇽🇰 Kosovo"
-    },
-    {
-        "id": 96,
-        "label": "🇰🇼 Kuwait"
-    },
-    {
-        "id": 97,
-        "label": "🇰🇬 Kirguistán"
-    },
-    {
-        "id": 98,
-        "label": "🇱🇦 Laos"
-    },
-    {
-        "id": 99,
-        "label": "🇱🇻 Letonia"
-    },
-    {
-        "id": 100,
-        "label": "🇱🇧 Líbano"
-    },
-    {
-        "id": 101,
-        "label": "🇱🇸 Lesoto"
-    },
-    {
-        "id": 102,
-        "label": "🇱🇷 Liberia"
-    },
-    {
-        "id": 103,
-        "label": "🇱🇾 Libia"
-    },
-    {
-        "id": 104,
-        "label": "🇱🇮 Liechtenstein"
-    },
-    {
-        "id": 105,
-        "label": "🇱🇹 Lituania"
-    },
-    {
-        "id": 106,
-        "label": "🇱🇺 Luxemburgo"
-    },
-    {
-        "id": 107,
-        "label": "🇲🇬 Madagascar"
-    },
-    {
-        "id": 108,
-        "label": "🇲🇼 Malaui"
-    },
-    {
-        "id": 109,
-        "label": "🇲🇾 Malasia"
-    },
-    {
-        "id": 110,
-        "label": "🇲🇻 Maldivas"
-    },
-    {
-        "id": 111,
-        "label": "🇲🇱 Malí"
-    },
-    {
-        "id": 112,
-        "label": "🇲🇹 Malta"
-    },
-    {
-        "id": 113,
-        "label": "🇲🇭 Islas Marshall"
-    },
-    {
-        "id": 114,
-        "label": "🇲🇷 Mauritania"
-    },
-    {
-        "id": 115,
-        "label": "🇲🇺 Mauricio"
-    },
-    {
-        "id": 116,
-        "label": "🇲🇽 México"
-    },
-    {
-        "id": 117,
-        "label": "🇫🇲 Micronesia"
-    },
-    {
-        "id": 118,
-        "label": "🇲🇩 Moldavia"
-    },
-    {
-        "id": 119,
-        "label": "🇲🇨 Mónaco"
-    },
-    {
-        "id": 120,
-        "label": "🇲🇳 Mongolia"
-    },
-    {
-        "id": 121,
-        "label": "🇲🇪 Montenegro"
-    },
-    {
-        "id": 122,
-        "label": "🇲🇦 Marruecos"
-    },
-    {
-        "id": 123,
-        "label": "🇲🇿 Mozambique"
-    },
-    {
-        "id": 124,
-        "label": "🇲🇲 Birmania"
-    },
-    {
-        "id": 125,
-        "label": "🇳🇦 Namibia"
-    },
-    {
-        "id": 126,
-        "label": "🇳🇷 Nauru"
-    },
-    {
-        "id": 127,
-        "label": "🇳🇵 Nepal"
-    },
-    {
-        "id": 128,
-        "label": "🇳🇱 Países Bajos"
-    },
-    {
-        "id": 129,
-        "label": "🇳🇿 Nueva Zelanda"
-    },
-    {
-        "id": 130,
-        "label": "🇳🇮 Nicaragua"
-    },
-    {
-        "id": 131,
-        "label": "🇳🇪 Níger"
-    },
-    {
-        "id": 132,
-        "label": "🇳🇬 Nigeria"
-    },
-    {
-        "id": 133,
-        "label": "🇲🇰 Macedonia del Norte"
-    },
-    {
-        "id": 134,
-        "label": "🇳🇴 Noruega"
-    },
-    {
-        "id": 135,
-        "label": "🇴🇲 Omán"
-    },
-    {
-        "id": 136,
-        "label": "🇵🇰 Pakistán"
-    },
-    {
-        "id": 137,
-        "label": "🇵🇼 Palaos"
-    },
-    {
-        "id": 138,
-        "label": "🇵🇦 Panamá"
-    },
-    {
-        "id": 139,
-        "label": "🇵🇬 Papúa Nueva Guinea"
-    },
-    {
-        "id": 140,
-        "label": "🇵🇾 Paraguay"
-    },
-    {
-        "id": 141,
-        "label": "🇵🇪 Perú"
-    },
-    {
-        "id": 142,
-        "label": "🇵🇭 Filipinas"
-    },
-    {
-        "id": 143,
-        "label": "🇵🇱 Polonia"
-    },
-    {
-        "id": 144,
-        "label": "🇵🇹 Portugal"
-    },
-    {
-        "id": 145,
-        "label": "🇶🇦 Catar"
-    },
-    {
-        "id": 146,
-        "label": "🇷🇴 Rumania"
-    },
-    {
-        "id": 147,
-        "label": "🇷🇺 Rusia"
-    },
-    {
-        "id": 148,
-        "label": "🇷🇼 Ruanda"
-    },
-    {
-        "id": 149,
-        "label": "🇰🇳 San Cristóbal y Nieves"
-    },
-    {
-        "id": 150,
-        "label": "🇱🇨 Santa Lucía"
-    },
-    {
-        "id": 151,
-        "label": "🇻🇨 San Vicente y las Granadinas"
-    },
-    {
-        "id": 152,
-        "label": "🇼🇸 Samoa"
-    },
-    {
-        "id": 153,
-        "label": "🇸🇲 San Marino"
-    },
-    {
-        "id": 154,
-        "label": "🇸🇹 Santo Tomé y Príncipe"
-    },
-    {
-        "id": 155,
-        "label": "🇸🇦 Arabia Saudí"
-    },
-    {
-        "id": 156,
-        "label": "🇸🇳 Senegal"
-    },
-    {
-        "id": 157,
-        "label": "🇷🇸 Serbia"
-    },
-    {
-        "id": 158,
-        "label": "🇸🇨 Seychelles"
-    },
-    {
-        "id": 159,
-        "label": "🇸🇱 Sierra Leona"
-    },
-    {
-        "id": 160,
-        "label": "🇸🇬 Singapur"
-    },
-    {
-        "id": 161,
-        "label": "🇸🇰 Eslovaquia"
-    },
-    {
-        "id": 162,
-        "label": "🇸🇮 Eslovenia"
-    },
-    {
-        "id": 163,
-        "label": "🇸🇧 Islas Salomón"
-    },
-    {
-        "id": 164,
-        "label": "🇸🇴 Somalia"
-    },
-    {
-        "id": 165,
-        "label": "🇿🇦 Sudáfrica"
-    },
-    {
-        "id": 166,
-        "label": "🇸🇸 Sudán del Sur"
-    },
-    {
-        "id": 167,
-        "label": "🇪🇸 España"
-    },
-    {
-        "id": 168,
-        "label": "🇱🇰 Sri Lanka"
-    },
-    {
-        "id": 169,
-        "label": "🇸🇩 Sudán"
-    },
-    {
-        "id": 170,
-        "label": "🇸🇷 Surinam"
-    },
-    {
-        "id": 171,
-        "label": "🇸🇪 Suecia"
-    },
-    {
-        "id": 172,
-        "label": "🇨🇭 Suiza"
-    },
-    {
-        "id": 173,
-        "label": "🇸🇾 Siria"
-    },
-    {
-        "id": 174,
-        "label": "🇹🇼 Taiwán"
-    },
-    {
-        "id": 175,
-        "label": "🇹🇯 Tayikistán"
-    },
-    {
-        "id": 176,
-        "label": "🇹🇿 Tanzania"
-    },
-    {
-        "id": 177,
-        "label": "🇹🇭 Tailandia"
-    },
-    {
-        "id": 178,
-        "label": "🇹🇱 Timor Oriental"
-    },
-    {
-        "id": 179,
-        "label": "🇹🇬 Togo"
-    },
-    {
-        "id": 180,
-        "label": "🇹🇴 Tonga"
-    },
-    {
-        "id": 181,
-        "label": "🇹🇹 Trinidad y Tobago"
-    },
-    {
-        "id": 182,
-        "label": "🇹🇳 Túnez"
-    },
-    {
-        "id": 183,
-        "label": "🇹🇷 Turquía"
-    },
-    {
-        "id": 184,
-        "label": "🇹🇲 Turkmenistán"
-    },
-    {
-        "id": 185,
-        "label": "🇹🇻 Tuvalu"
-    },
-    {
-        "id": 186,
-        "label": "🇺🇬 Uganda"
-    },
-    {
-        "id": 187,
-        "label": "🇺🇦 Ucrania"
-    },
-    {
-        "id": 188,
-        "label": "🇦🇪 Emiratos Árabes Unidos"
-    },
-    {
-        "id": 189,
-        "label": "🇬🇧 Reino Unido"
-    },
-    {
-        "id": 190,
-        "label": "🇺🇸 Estados Unidos de América"
-    },
-    {
-        "id": 191,
-        "label": "🇺🇾 Uruguay"
-    },
-    {
-        "id": 192,
-        "label": "🇺🇿 Uzbekistán"
-    },
-    {
-        "id": 193,
-        "label": "🇻🇺 Vanuatu"
-    },
-    {
-        "id": 194,
-        "label": "🇻🇦 Ciudad del Vaticano"
-    },
-    {
-        "id": 195,
-        "label": "🇻🇪 Venezuela"
-    },
-    {
-        "id": 196,
-        "label": "🇻🇳 Vietnam"
-    },
-    {
-        "id": 197,
-        "label": "🇾🇪 Yemen"
-    },
-    {
-        "id": 198,
-        "label": "🇿🇲 Zambia"
-    },
-    {
-        "id": 199,
-        "label": "🇿🇼 Zimbabue"
-    }
+    { "id": 0, "label": "🇦🇫 Afghanistan", "country": "AF" },
+    { "id": 1, "label": "🇦🇱 Albania", "country": "AL" },
+    { "id": 2, "label": "🇩🇿 Algeria", "country": "DZ" },
+    { "id": 3, "label": "🇦🇸 American Samoa", "country": "AS" },
+    { "id": 4, "label": "🇦🇩 Andorra", "country": "AD" },
+    { "id": 5, "label": "🇦🇴 Angola", "country": "AO" },
+    { "id": 6, "label": "🇦🇮 Anguilla", "country": "AI" },
+    { "id": 7, "label": "🇦🇶 Antarctica", "country": "AQ" },
+    { "id": 8, "label": "🇦🇬 Antigua And Barbuda", "country": "AG" },
+    { "id": 9, "label": "🇦🇷 Argentina", "country": "AR" },
+    { "id": 10, "label": "🇦🇲 Armenia", "country": "AM" },
+    { "id": 11, "label": "🇦🇼 Aruba", "country": "AW" },
+    { "id": 12, "label": "🇦🇺 Australia", "country": "AU" },
+    { "id": 13, "label": "🇦🇹 Austria", "country": "AT" },
+    { "id": 14, "label": "🇦🇿 Azerbaijan", "country": "AZ" },
+    { "id": 15, "label": "🇧🇸 Bahamas", "country": "BS" },
+    { "id": 16, "label": "🇧🇭 Bahrain", "country": "BH" },
+    { "id": 17, "label": "🇧🇩 Bangladesh", "country": "BD" },
+    { "id": 18, "label": "🇧🇧 Barbados", "country": "BB" },
+    { "id": 19, "label": "🇧🇾 Belarus", "country": "BY" },
+    { "id": 20, "label": "🇧🇪 Belgium", "country": "BE" },
+    { "id": 21, "label": "🇧🇿 Belize", "country": "BZ" },
+    { "id": 22, "label": "🇧🇯 Benin", "country": "BJ" },
+    { "id": 23, "label": "🇧🇹 Bhutan", "country": "BT" },
+    { "id": 24, "label": "🇧🇴 Bolivia", "country": "BO" },
+    { "id": 25, "label": "🇧🇦 Bosnia And Herzegovina", "country": "BA" },
+    { "id": 26, "label": "🇧🇼 Botswana", "country": "BW" },
+    { "id": 27, "label": "🇧🇷 Brazil", "country": "BR" },
+    { "id": 28, "label": "🇧🇳 Brunei", "country": "BN" },
+    { "id": 29, "label": "🇧🇬 Bulgaria", "country": "BG" },
+    { "id": 30, "label": "🇧🇫 Burkina Faso", "country": "BF" },
+    { "id": 31, "label": "🇧🇮 Burundi", "country": "BI" },
+    { "id": 32, "label": "🇨🇻 Cabo Verde", "country": "CV" },
+    { "id": 33, "label": "🇰🇭 Cambodia", "country": "KH" },
+    { "id": 34, "label": "🇨🇲 Cameroon", "country": "CM" },
+    { "id": 35, "label": "🇨🇦 Canada", "country": "CA" },
+    { "id": 36, "label": "🇨🇫 Central African Republic", "country": "CF" },
+    { "id": 37, "label": "🇹🇩 Chad", "country": "TD" },
+    { "id": 38, "label": "🇨🇱 Chile", "country": "CL" },
+    { "id": 39, "label": "🇨🇳 China", "country": "CN" },
+    { "id": 40, "label": "🇨🇴 Colombia", "country": "CO" },
+    { "id": 41, "label": "🇰🇲 Comoros", "country": "KM" },
+    { "id": 42, "label": "🇨🇩 Congo Democratic Republic", "country": "CD" },
+    { "id": 43, "label": "🇨🇬 Congo Republic", "country": "CG" },
+    { "id": 44, "label": "🇨🇷 Costa Rica", "country": "CR" },
+    { "id": 45, "label": "🇨🇮 Cote D Ivoire", "country": "CI" },
+    { "id": 46, "label": "🇭🇷 Croatia", "country": "HR" },
+    { "id": 47, "label": "🇨🇺 Cuba", "country": "CU" },
+    { "id": 48, "label": "🇨🇾 Cyprus", "country": "CY" },
+    { "id": 49, "label": "🇨🇿 Czech Republic", "country": "CZ" },
+    { "id": 50, "label": "🇩🇰 Denmark", "country": "DK" },
+    { "id": 51, "label": "🇩🇯 Djibouti", "country": "DJ" },
+    { "id": 52, "label": "🇩🇲 Dominica", "country": "DM" },
+    { "id": 53, "label": "🇩🇴 Dominican Republic", "country": "DO" },
+    { "id": 54, "label": "🇪🇨 Ecuador", "country": "EC" },
+    { "id": 55, "label": "🇪🇬 Egypt", "country": "EG" },
+    { "id": 56, "label": "🇸🇻 El Salvador", "country": "SV" },
+    { "id": 57, "label": "🇬🇶 Equatorial Guinea", "country": "GQ" },
+    { "id": 58, "label": "🇪🇷 Eritrea", "country": "ER" },
+    { "id": 59, "label": "🇪🇪 Estonia", "country": "EE" },
+    { "id": 60, "label": "🇸🇿 Eswatini", "country": "SZ" },
+    { "id": 61, "label": "🇪🇹 Ethiopia", "country": "ET" },
+    { "id": 62, "label": "🇫🇯 Fiji", "country": "FJ" },
+    { "id": 63, "label": "🇫🇮 Finland", "country": "FI" },
+    { "id": 64, "label": "🇫🇷 France", "country": "FR" },
+    { "id": 65, "label": "🇬🇦 Gabon", "country": "GA" },
+    { "id": 66, "label": "🇬🇲 Gambia", "country": "GM" },
+    { "id": 67, "label": "🇬🇪 Georgia", "country": "GE" },
+    { "id": 68, "label": "🇩🇪 Germany", "country": "DE" },
+    { "id": 69, "label": "🇬🇭 Ghana", "country": "GH" },
+    { "id": 70, "label": "🇬🇷 Greece", "country": "GR" },
+    { "id": 71, "label": "🇬🇩 Grenada", "country": "GD" },
+    { "id": 72, "label": "🇬🇹 Guatemala", "country": "GT" },
+    { "id": 73, "label": "🇬🇳 Guinea", "country": "GN" },
+    { "id": 74, "label": "🇬🇼 Guinea Bissau", "country": "GW" },
+    { "id": 75, "label": "🇬🇾 Guyana", "country": "GY" },
+    { "id": 76, "label": "🇭🇹 Haiti", "country": "HT" },
+    { "id": 77, "label": "🇭🇳 Honduras", "country": "HN" },
+    { "id": 78, "label": "🇭🇺 Hungary", "country": "HU" },
+    { "id": 79, "label": "🇮🇸 Iceland", "country": "IS" },
+    { "id": 80, "label": "🇮🇳 India", "country": "IN" },
+    { "id": 81, "label": "🇮🇩 Indonesia", "country": "ID" },
+    { "id": 82, "label": "🇮🇷 Iran", "country": "IR" },
+    { "id": 83, "label": "🇮🇶 Iraq", "country": "IQ" },
+    { "id": 84, "label": "🇮🇪 Ireland", "country": "IE" },
+    { "id": 85, "label": "🇵🇸 Palestine", "country": "PS" },
+    { "id": 86, "label": "🇮🇹 Italy", "country": "IT" },
+    { "id": 87, "label": "🇯🇲 Jamaica", "country": "JM" },
+    { "id": 88, "label": "🇯🇵 Japan", "country": "JP" },
+    { "id": 89, "label": "🇯🇴 Jordan", "country": "JO" },
+    { "id": 90, "label": "🇰🇿 Kazakhstan", "country": "KZ" },
+    { "id": 91, "label": "🇰🇪 Kenya", "country": "KE" },
+    { "id": 92, "label": "🇰🇮 Kiribati", "country": "KI" },
+    { "id": 93, "label": "🇰🇵 Korea North", "country": "KP" },
+    { "id": 94, "label": "🇰🇷 Korea South", "country": "KR" },
+    { "id": 95, "label": "🇽🇰 Kosovo", "country": "XK" },
+    { "id": 96, "label": "🇰🇼 Kuwait", "country": "KW" },
+    { "id": 97, "label": "🇰🇬 Kyrgyzstan", "country": "KG" },
+    { "id": 98, "label": "🇱🇦 Laos", "country": "LA" },
+    { "id": 99, "label": "🇱🇻 Latvia", "country": "LV" },
+    { "id": 100, "label": "🇱🇧 Lebanon", "country": "LB" },
+    { "id": 101, "label": "🇱🇸 Lesotho", "country": "LS" },
+    { "id": 102, "label": "🇱🇷 Liberia", "country": "LR" },
+    { "id": 103, "label": "🇱🇾 Libya", "country": "LY" },
+    { "id": 104, "label": "🇱🇮 Liechtenstein", "country": "LI" },
+    { "id": 105, "label": "🇱🇹 Lithuania", "country": "LT" },
+    { "id": 106, "label": "🇱🇺 Luxembourg", "country": "LU" },
+    { "id": 107, "label": "🇲🇬 Madagascar", "country": "MG" },
+    { "id": 108, "label": "🇲🇼 Malawi", "country": "MW" },
+    { "id": 109, "label": "🇲🇾 Malaysia", "country": "MY" },
+    { "id": 110, "label": "🇲🇻 Maldives", "country": "MV" },
+    { "id": 111, "label": "🇲🇱 Mali", "country": "ML" },
+    { "id": 112, "label": "🇲🇹 Malta", "country": "MT" },
+    { "id": 113, "label": "🇲🇭 Marshall Islands", "country": "MH" },
+    { "id": 114, "label": "🇲🇷 Mauritania", "country": "MR" },
+    { "id": 115, "label": "🇲🇺 Mauritius", "country": "MU" },
+    { "id": 116, "label": "🇲🇽 Mexico", "country": "MX" },
+    { "id": 117, "label": "🇫🇲 Micronesia", "country": "FM" },
+    { "id": 118, "label": "🇲🇩 Moldova", "country": "MD" },
+    { "id": 119, "label": "🇲🇨 Monaco", "country": "MC" },
+    { "id": 120, "label": "🇲🇳 Mongolia", "country": "MN" },
+    { "id": 121, "label": "🇲🇪 Montenegro", "country": "ME" },
+    { "id": 122, "label": "🇲🇦 Morocco", "country": "MA" },
+    { "id": 123, "label": "🇲🇿 Mozambique", "country": "MZ" },
+    { "id": 124, "label": "🇲🇲 Myanmar", "country": "MM" },
+    { "id": 125, "label": "🇳🇦 Namibia", "country": "NA" },
+    { "id": 126, "label": "🇳🇷 Nauru", "country": "NR" },
+    { "id": 127, "label": "🇳🇵 Nepal", "country": "NP" },
+    { "id": 128, "label": "🇳🇱 Netherlands", "country": "NL" },
+    { "id": 129, "label": "🇳🇿 New Zealand", "country": "NZ" },
+    { "id": 130, "label": "🇳🇮 Nicaragua", "country": "NI" },
+    { "id": 131, "label": "🇳🇪 Niger", "country": "NE" },
+    { "id": 132, "label": "🇳🇬 Nigeria", "country": "NG" },
+    { "id": 133, "label": "🇲🇰 North Macedonia", "country": "MK" },
+    { "id": 134, "label": "🇳🇴 Norway", "country": "NO" },
+    { "id": 135, "label": "🇴🇲 Oman", "country": "OM" },
+    { "id": 136, "label": "🇵🇰 Pakistan", "country": "PK" },
+    { "id": 137, "label": "🇵🇼 Palau", "country": "PW" },
+    { "id": 138, "label": "🇵🇦 Panama", "country": "PA" },
+    { "id": 139, "label": "🇵🇬 Papua New Guinea", "country": "PG" },
+    { "id": 140, "label": "🇵🇾 Paraguay", "country": "PY" },
+    { "id": 141, "label": "🇵🇪 Peru", "country": "PE" },
+    { "id": 142, "label": "🇵🇭 Philippines", "country": "PH" },
+    { "id": 143, "label": "🇵🇱 Poland", "country": "PL" },
+    { "id": 144, "label": "🇵🇹 Portugal", "country": "PT" },
+    { "id": 145, "label": "🇶🇦 Qatar", "country": "QA" },
+    { "id": 146, "label": "🇷🇴 Romania", "country": "RO" },
+    { "id": 147, "label": "🇷🇺 Russia", "country": "RU" },
+    { "id": 148, "label": "🇷🇼 Rwanda", "country": "RW" },
+    { "id": 149, "label": "🇰🇳 St Kitts And Nevis", "country": "KN" },
+    { "id": 150, "label": "🇱🇨 St Lucia", "country": "LC" },
+    { "id": 151, "label": "🇻🇨 Saint Vincent And The Grenadines", "country": "VC" },
+    { "id": 152, "label": "🇼🇸 Samoa", "country": "WS" },
+    { "id": 153, "label": "🇸🇲 San Marino", "country": "SM" },
+    { "id": 154, "label": "🇸🇹 Sao Tome And Principe", "country": "ST" },
+    { "id": 155, "label": "🇸🇦 Saudi Arabia", "country": "SA" },
+    { "id": 156, "label": "🇸🇳 Senegal", "country": "SN" },
+    { "id": 157, "label": "🇷🇸 Serbia", "country": "RS" },
+    { "id": 158, "label": "🇸🇨 Seychelles", "country": "SC" },
+    { "id": 159, "label": "🇸🇱 Sierra Leone", "country": "SL" },
+    { "id": 160, "label": "🇸🇬 Singapore", "country": "SG" },
+    { "id": 161, "label": "🇸🇰 Slovakia", "country": "SK" },
+    { "id": 162, "label": "🇸🇮 Slovenia", "country": "SI" },
+    { "id": 163, "label": "🇸🇧 Solomon Islands", "country": "SB" },
+    { "id": 164, "label": "🇸🇴 Somalia", "country": "SO" },
+    { "id": 165, "label": "🇿🇦 South Africa", "country": "ZA" },
+    { "id": 166, "label": "🇸🇸 South Sudan", "country": "SS" },
+    { "id": 167, "label": "🇪🇸 Spain", "country": "ES" },
+    { "id": 168, "label": "🇱🇰 Sri Lanka", "country": "LK" },
+    { "id": 169, "label": "🇸🇩 Sudan", "country": "SD" },
+    { "id": 170, "label": "🇸🇷 Suriname", "country": "SR" },
+    { "id": 171, "label": "🇸🇪 Sweden", "country": "SE" },
+    { "id": 172, "label": "🇨🇭 Switzerland", "country": "CH" },
+    { "id": 173, "label": "🇸🇾 Syria", "country": "SY" },
+    { "id": 174, "label": "🇹🇼 Taiwan", "country": "TW" },
+    { "id": 175, "label": "🇹🇯 Tajikistan", "country": "TJ" },
+    { "id": 176, "label": "🇹🇿 Tanzania", "country": "TZ" },
+    { "id": 177, "label": "🇹🇭 Thailand", "country": "TH" },
+    { "id": 178, "label": "🇹🇱 Timor Leste", "country": "TL" },
+    { "id": 179, "label": "🇹🇬 Togo", "country": "TG" },
+    { "id": 180, "label": "🇹🇴 Tonga", "country": "TO" },
+    { "id": 181, "label": "🇹🇹 Trinidad And Tobago", "country": "TT" },
+    { "id": 182, "label": "🇹🇳 Tunisia", "country": "TN" },
+    { "id": 183, "label": "🇹🇷 Turkey", "country": "TR" },
+    { "id": 184, "label": "🇹🇲 Turkmenistan", "country": "TM" },
+    { "id": 185, "label": "🇹🇻 Tuvalu", "country": "TV" },
+    { "id": 186, "label": "🇺🇬 Uganda", "country": "UG" },
+    { "id": 187, "label": "🇺🇦 Ukraine", "country": "UA" },
+    { "id": 188, "label": "🇦🇪 United Arab Emirates", "country": "AE" },
+    { "id": 189, "label": "🇬🇧 United Kingdom", "country": "GB" },
+    { "id": 190, "label": "🇺🇸 United States Of America", "country": "US" },
+    { "id": 191, "label": "🇺🇾 Uruguay", "country": "UY" },
+    { "id": 192, "label": "🇺🇿 Uzbekistan", "country": "UZ" },
+    { "id": 193, "label": "🇻🇺 Vanuatu", "country": "VU" },
+    { "id": 194, "label": "🇻🇦 Vatican City", "country": "VA" },
+    { "id": 195, "label": "🇻🇪 Venezuela", "country": "VE" },
+    { "id": 196, "label": "🇻🇳 Vietnam", "country": "VN" },
+    { "id": 197, "label": "🇾🇪 Yemen", "country": "YE" },
+    { "id": 198, "label": "🇿🇲 Zambia", "country": "ZM" },
+    { "id": 199, "label": "🇿🇼 Zimbabwe", "country": "ZW" }
 ]
