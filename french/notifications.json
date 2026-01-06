@@ -1,0 +1,48 @@
+{
+  "like": {
+    "title": "Quelqu'un vous aime",
+    "subtitle": "{nickname} a aimé votre profil !",
+    "description": "Appuyez pour voir le profil de {nickname}"
+  },
+  "match": {
+    "title": "Nouvelle correspondance",
+    "subtitle": "{nickname} correspond avec vous !",
+    "description": "Appuyez pour voir le profil de {nickname}"
+  },
+  "match_accepted": {
+    "title": "Correspondance acceptée",
+    "subtitle": "{nickname} a accepté votre correspondance !",
+    "description": "Appuyez pour voir le profil de {nickname}"
+  },
+  "visit": {
+    "title": "Nouvelle visite",
+    "subtitle": "{nickname} a visité votre profil !",
+    "description": "Appuyez pour voir le profil de {nickname}"
+  },
+  "message": {
+    "title": "Nouveau message",
+    "subtitle": "Vous avez un nouveau message de {nickname}",
+    "description": "Appuyez pour voir le message"
+  },
+  "message_reply": {
+    "title": "Nouvelle réponse",
+    "subtitle": "Vous avez reçu une réponse de {nickname}",
+    "description": "Appuyez pour lire la réponse complète"
+  },
+  "compliment": {
+    "title": "Nouveau compliment",
+    "subtitle": "{nickname} vous a complimenté !",
+    "description": "Appuyez pour voir le profil de {nickname}"
+  },
+  "gift": {
+    "title": "Nouveau cadeau",
+    "subtitle": "{nickname} vous a envoyé un cadeau !",
+    "description": "Appuyez pour voir le cadeau de {nickname}"
+  },
+  "reveal": {
+    "title": "Révélation de profil",
+    "subtitle": "{nickname} a révélé son profil !",
+    "description": "Appuyez pour voir le profil de {nickname}"
+  }
+}
+

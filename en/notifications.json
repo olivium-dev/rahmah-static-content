@@ -1,0 +1,48 @@
+{
+  "like": {
+    "title": "Someone Likes You",
+    "subtitle": "{nickname} just liked your profile!",
+    "description": "Tap to view {nickname}'s profile"
+  },
+  "match": {
+    "title": "Someone Matched You",
+    "subtitle": "{nickname} just matched with you!",
+    "description": "Tap to view {nickname}'s profile"
+  },
+  "match_accepted": {
+    "title": "Someone Accepted Your Match",
+    "subtitle": "{nickname} just accepted your match!",
+    "description": "Tap to view {nickname}'s profile"
+  },
+  "visit": {
+    "title": "Someone Visited You",
+    "subtitle": "{nickname} just visited your profile!",
+    "description": "Tap to view {nickname}'s profile"
+  },
+  "message": {
+    "title": "New Message",
+    "subtitle": "You have a new message from {nickname}",
+    "description": "Tap to view the message"
+  },
+  "message_reply": {
+    "title": "New Message Reply",
+    "subtitle": "You've received a reply to your message from {nickname}",
+    "description": "Tap to read the full reply"
+  },
+  "compliment": {
+    "title": "New Compliment",
+    "subtitle": "{nickname} just complimented you!",
+    "description": "Tap to view {nickname}'s profile"
+  },
+  "gift": {
+    "title": "New Gift",
+    "subtitle": "{nickname} sent you a gift!",
+    "description": "Tap to view {nickname}'s gift"
+  },
+  "reveal": {
+    "title": "Profile Reveal",
+    "subtitle": "{nickname} revealed their profile to you!",
+    "description": "Tap to view {nickname}'s profile"
+  }
+}
+

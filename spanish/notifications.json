@@ -1,0 +1,48 @@
+{
+  "like": {
+    "title": "A alguien le gustas",
+    "subtitle": "¡{nickname} le dio me gusta a tu perfil!",
+    "description": "Toca para ver el perfil de {nickname}"
+  },
+  "match": {
+    "title": "Nueva coincidencia",
+    "subtitle": "¡{nickname} coincide contigo!",
+    "description": "Toca para ver el perfil de {nickname}"
+  },
+  "match_accepted": {
+    "title": "Coincidencia aceptada",
+    "subtitle": "¡{nickname} aceptó tu coincidencia!",
+    "description": "Toca para ver el perfil de {nickname}"
+  },
+  "visit": {
+    "title": "Nueva visita",
+    "subtitle": "¡{nickname} visitó tu perfil!",
+    "description": "Toca para ver el perfil de {nickname}"
+  },
+  "message": {
+    "title": "Nuevo mensaje",
+    "subtitle": "Tienes un nuevo mensaje de {nickname}",
+    "description": "Toca para ver el mensaje"
+  },
+  "message_reply": {
+    "title": "Nueva respuesta",
+    "subtitle": "Has recibido una respuesta de {nickname}",
+    "description": "Toca para leer la respuesta completa"
+  },
+  "compliment": {
+    "title": "Nuevo cumplido",
+    "subtitle": "¡{nickname} te hizo un cumplido!",
+    "description": "Toca para ver el perfil de {nickname}"
+  },
+  "gift": {
+    "title": "Nuevo regalo",
+    "subtitle": "¡{nickname} te envió un regalo!",
+    "description": "Toca para ver el regalo de {nickname}"
+  },
+  "reveal": {
+    "title": "Revelación de perfil",
+    "subtitle": "¡{nickname} reveló su perfil!",
+    "description": "Toca para ver el perfil de {nickname}"
+  }
+}
+

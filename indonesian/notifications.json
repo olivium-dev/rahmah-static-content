@@ -1,0 +1,48 @@
+{
+  "like": {
+    "title": "Seseorang Menyukai Anda",
+    "subtitle": "{nickname} menyukai profil Anda!",
+    "description": "Ketuk untuk melihat profil {nickname}"
+  },
+  "match": {
+    "title": "Kecocokan Baru",
+    "subtitle": "{nickname} cocok dengan Anda!",
+    "description": "Ketuk untuk melihat profil {nickname}"
+  },
+  "match_accepted": {
+    "title": "Kecocokan Diterima",
+    "subtitle": "{nickname} menerima kecocokan Anda!",
+    "description": "Ketuk untuk melihat profil {nickname}"
+  },
+  "visit": {
+    "title": "Kunjungan Baru",
+    "subtitle": "{nickname} mengunjungi profil Anda!",
+    "description": "Ketuk untuk melihat profil {nickname}"
+  },
+  "message": {
+    "title": "Pesan Baru",
+    "subtitle": "Anda memiliki pesan baru dari {nickname}",
+    "description": "Ketuk untuk melihat pesan"
+  },
+  "message_reply": {
+    "title": "Balasan Pesan Baru",
+    "subtitle": "Anda menerima balasan dari {nickname}",
+    "description": "Ketuk untuk membaca balasan lengkap"
+  },
+  "compliment": {
+    "title": "Pujian Baru",
+    "subtitle": "{nickname} memuji Anda!",
+    "description": "Ketuk untuk melihat profil {nickname}"
+  },
+  "gift": {
+    "title": "Hadiah Baru",
+    "subtitle": "{nickname} mengirimi Anda hadiah!",
+    "description": "Ketuk untuk melihat hadiah {nickname}"
+  },
+  "reveal": {
+    "title": "Pengungkapan Profil",
+    "subtitle": "{nickname} mengungkapkan profilnya kepada Anda!",
+    "description": "Ketuk untuk melihat profil {nickname}"
+  }
+}
+
