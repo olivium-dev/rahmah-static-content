@@ -1,6 +1,6 @@
 {
   "like": {
-    "title": "Quelqu'un vous aime",
+    "title": "vous aime",
     "subtitle": "{nickname} a aimé votre profil !",
     "description": "Appuyez pour voir le profil de {nickname}"
   },

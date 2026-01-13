@@ -1,6 +1,6 @@
 {
   "like": {
-    "title": "شخص ما أعجب بك",
+    "title": "أعجب بك",
     "subtitle": {
       "male": "{nickname} أعجب بملفك الشخصي!",
       "female": "{nickname} أعجبت بملفك الشخصي!",

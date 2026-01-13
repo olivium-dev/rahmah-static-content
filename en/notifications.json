@@ -1,21 +1,21 @@
 {
   "like": {
-    "title": "Someone Likes You",
+    "title": "Likes You",
     "subtitle": "{nickname} just liked your profile!",
     "description": "Tap to view {nickname}'s profile"
   },
   "match": {
-    "title": "Someone Matched You",
+    "title": "Matched You",
     "subtitle": "{nickname} just matched with you!",
     "description": "Tap to view {nickname}'s profile"
   },
   "match_accepted": {
-    "title": "Someone Accepted Your Match",
+    "title": "Accepted Your Match",
     "subtitle": "{nickname} just accepted your match!",
     "description": "Tap to view {nickname}'s profile"
   },
   "visit": {
-    "title": "Someone Visited You",
+    "title": "Visited You",
     "subtitle": "{nickname} just visited your profile!",
     "description": "Tap to view {nickname}'s profile"
   },
