@@ -1,6 +1,6 @@
 {
   "like": {
-    "title": "Menyukai Anda",
+    "title": "Seseorang Menyukai Anda",
     "subtitle": "{nickname} menyukai profil Anda!",
     "description": "Ketuk untuk melihat profil {nickname}"
   },
@@ -47,13 +47,7 @@
   "ban": {
     "title": "Larangan Diterapkan",
     "subtitle": "Larangan telah diterapkan pada akun Anda",
-    "description": "Silakan tinjau detail larangan",
-    "labels": {
-      "YOU_ARE_BANNED_FOR_3_DAYS": "Anda dilarang selama 3 hari",
-      "YOU_WILL_BE_BANNED_AFTER_ONE_WARNING": "Anda akan dilarang setelah satu peringatan",
-      "YELLOW_BAN_APPLIED": "Larangan kuning telah diterapkan. Harap berhati-hati saat berbagi informasi pribadi.",
-      "RED_BAN_APPLIED": "Larangan merah telah diterapkan karena konten atau perilaku yang tidak pantas."
-    }
+    "description": "Silakan tinjau detail larangan"
   }
 }
 

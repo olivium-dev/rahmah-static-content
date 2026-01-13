@@ -1,6 +1,6 @@
 {
   "like": {
-    "title": "vous aime",
+    "title": "Quelqu'un vous aime",
     "subtitle": "{nickname} a aimé votre profil !",
     "description": "Appuyez pour voir le profil de {nickname}"
   },
@@ -47,13 +47,7 @@
   "ban": {
     "title": "Interdiction appliquée",
     "subtitle": "Une interdiction a été appliquée à votre compte",
-    "description": "Veuillez consulter les détails de l'interdiction",
-    "labels": {
-      "YOU_ARE_BANNED_FOR_3_DAYS": "Vous êtes banni pendant 3 jours",
-      "YOU_WILL_BE_BANNED_AFTER_ONE_WARNING": "Vous serez banni après un avertissement",
-      "YELLOW_BAN_APPLIED": "Une interdiction jaune a été appliquée. Veuillez faire attention lors du partage d'informations personnelles.",
-      "RED_BAN_APPLIED": "Une interdiction rouge a été appliquée en raison d'un contenu ou d'un comportement inapproprié."
-    }
+    "description": "Veuillez consulter les détails de l'interdiction"
   }
 }
 
