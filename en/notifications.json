@@ -43,6 +43,17 @@
     "title": "Profile Reveal",
     "subtitle": "{nickname} revealed their profile to you!",
     "description": "Tap to view {nickname}'s profile"
+  },
+  "ban": {
+    "title": "Ban Applied",
+    "subtitle": "A ban has been applied to your account",
+    "description": "Please review the ban details",
+    "labels": {
+      "YOU_ARE_BANNED_FOR_3_DAYS": "You are banned for 3 days",
+      "YOU_WILL_BE_BANNED_AFTER_ONE_WARNING": "You will be banned after one warning",
+      "YELLOW_BAN_APPLIED": "A yellow ban has been applied. Please be careful with sharing personal information.",
+      "RED_BAN_APPLIED": "A red ban has been applied due to inappropriate content or behavior."
+    }
   }
 }
 

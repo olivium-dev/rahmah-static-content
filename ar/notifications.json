@@ -67,6 +67,17 @@
       "generic": "{nickname} كشف ملفه الشخصي لك!"
     },
     "description": "اضغط لعرض ملف {nickname} الشخصي"
+  },
+  "ban": {
+    "title": "تم تطبيق الحظر",
+    "subtitle": "تم تطبيق حظر على حسابك",
+    "description": "يرجى مراجعة تفاصيل الحظر",
+    "labels": {
+      "YOU_ARE_BANNED_FOR_3_DAYS": "أنت محظور لمدة 3 أيام",
+      "YOU_WILL_BE_BANNED_AFTER_ONE_WARNING": "سيتم حظرك بعد تحذير واحد",
+      "YELLOW_BAN_APPLIED": "تم تطبيق حظر أصفر. يرجى الحذر عند مشاركة المعلومات الشخصية.",
+      "RED_BAN_APPLIED": "تم تطبيق حظر أحمر بسبب محتوى أو سلوك غير لائق."
+    }
   }
 }
 
